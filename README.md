@@ -273,7 +273,11 @@ This project demonstrates practical implementation of:
 - Database Integration
 
 ---
+## Academic Integrity
 
+This repository is shared to showcase the implementation and learning outcomes of the project. It is intended for reference and educational purposes only. Please do not submit this work as your own academic assignment.
+
+---
 ## License
 
 This project is released under the **MIT License**.
