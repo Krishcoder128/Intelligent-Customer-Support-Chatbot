@@ -1,0 +1,121 @@
+Product_ID,Product_Name,Category,Brand,Price,Stock,Warranty
+P001,Wireless Mouse,Accessories,Logitech,699,52,1 Year
+P002,Mechanical Keyboard,Accessories,Redragon,2499,30,1 Year
+P003,Laptop,Computers,Dell,59999,18,2 Years
+P004,Gaming Monitor,Monitors,LG,14999,12,3 Years
+P005,Smartphone,Mobiles,Samsung,28999,25,1 Year
+P006,Bluetooth Speaker,Audio,JBL,3499,40,1 Year
+P007,Headphones,Audio,Sony,2499,35,1 Year
+P008,Tablet,Tablets,Lenovo,18999,15,1 Year
+P009,Printer,Printers,HP,7499,10,2 Years
+P010,Webcam,Accessories,Logitech,1999,50,1 Year
+P011,Gaming Chair,Furniture,Green Soul,8999,8,3 Years
+P012,Laptop Bag,Accessories,American Tourister,1499,60,6 Months
+P013,Power Bank,Accessories,Mi,1499,55,6 Months
+P014,USB-C Hub,Accessories,Anker,2499,20,1 Year
+P015,External SSD,Storage,Samsung,6999,16,3 Years
+P016,Smartwatch,Wearables,Noise,3999,42,1 Year
+P017,Router,Networking,TP-Link,2299,22,2 Years
+P018,Desk Lamp,Furniture,Philips,1199,34,1 Year
+P019,Monitor Stand,Furniture,AmazonBasics,1799,17,1 Year
+P020,Wireless Charger,Accessories,Spigen,1299,38,1 Year
+P021,Wireless Keyboard,Accessories,Logitech,1399,24,1 Year
+P022,Trackpad,Accessories,Apple,8599,9,1 Year
+P023,Screen Protector,Accessories,Spigen,336,118,6 Months
+P024,Phone Case,Accessories,OtterBox,499,63,6 Months
+P025,Car Charger,Accessories,Anker,1099,33,1 Year
+P026,Cable Organizer,Accessories,AmazonBasics,499,58,6 Months
+P027,HDMI Cable,Accessories,Belkin,437,46,1 Year
+P028,Laptop Stand,Accessories,Boya,1799,46,1 Year
+P029,Cooling Pad,Accessories,Cooler Master,999,25,1 Year
+P030,Stylus Pen,Accessories,Wacom,1799,29,1 Year
+P031,Desktop PC,Computers,HP,70799,6,2 Years
+P032,Mini PC,Computers,Intel,43499,9,1 Year
+P033,All-in-One PC,Computers,Dell,69599,15,2 Years
+P034,Workstation PC,Computers,Lenovo,131099,3,3 Years
+P035,Chromebook,Computers,Acer,31399,28,1 Year
+P036,Gaming Laptop,Computers,ASUS,100899,4,2 Years
+P037,Curved Monitor,Monitors,Samsung,22599,11,2 Years
+P038,4K Monitor,Monitors,LG,29299,12,3 Years
+P039,Portable Monitor,Monitors,ASUS,19799,16,1 Year
+P040,Touchscreen Monitor,Monitors,Dell,28799,7,2 Years
+P041,Smartphone,Mobiles,OnePlus,33099,32,1 Year
+P042,Smartphone,Mobiles,Xiaomi,23099,25,1 Year
+P043,Smartphone,Mobiles,Apple,73499,16,1 Year
+P044,Feature Phone,Mobiles,Nokia,2199,31,1 Year
+P045,Soundbar,Audio,Sony,14899,14,1 Year
+P046,Home Theatre System,Audio,JBL,18199,8,1 Year
+P047,Wired Earphones,Audio,boAt,599,123,6 Months
+P048,True Wireless Earbuds,Audio,Sony,8499,59,1 Year
+P049,Microphone,Audio,Blue Yeti,10499,20,1 Year
+P050,DJ Controller,Audio,Pioneer,40199,8,1 Year
+P051,Kids Tablet,Tablets,Samsung,12699,26,1 Year
+P052,Drawing Tablet,Tablets,Wacom,14899,11,1 Year
+P053,Tablet,Tablets,Apple,40799,21,1 Year
+P054,All-in-One Printer,Printers,Canon,15299,17,2 Years
+P055,Photo Printer,Printers,HP,7599,17,1 Year
+P056,Label Printer,Printers,Brother,6399,28,1 Year
+P057,Office Chair,Furniture,Green Soul,9999,20,3 Years
+P058,Study Table,Furniture,Nilkamal,7099,21,1 Year
+P059,Bookshelf,Furniture,Durian,7899,17,1 Year
+P060,Filing Cabinet,Furniture,Godrej,5899,16,2 Years
+P061,Standing Desk,Furniture,Flexispot,19799,8,3 Years
+P062,HDD External,Storage,WD,6299,24,3 Years
+P063,Pen Drive,Storage,SanDisk,699,113,5 Years
+P064,Memory Card,Storage,SanDisk,499,59,5 Years
+P065,NAS Storage,Storage,Synology,43199,10,3 Years
+P066,Fitness Band,Wearables,Xiaomi,2099,47,1 Year
+P067,Smart Ring,Wearables,Noise,7799,25,1 Year
+P068,Wi-Fi Extender,Networking,TP-Link,2399,45,1 Year
+P069,Modem,Networking,Netgear,4299,17,2 Years
+P070,Network Switch,Networking,D-Link,2299,20,1 Year
+P071,Mesh Router,Networking,TP-Link,10799,19,2 Years
+P072,Mixer Grinder,Kitchen Appliances,Bajaj,5199,22,2 Years
+P073,Electric Kettle,Kitchen Appliances,Prestige,899,44,1 Year
+P074,Air Fryer,Kitchen Appliances,Philips,12299,30,1 Year
+P075,Toaster,Kitchen Appliances,Morphy Richards,2799,32,1 Year
+P076,Induction Cooktop,Kitchen Appliances,Prestige,3099,27,1 Year
+P077,Vacuum Cleaner,Home Appliances,Eureka Forbes,11599,10,2 Years
+P078,Air Purifier,Home Appliances,Philips,16499,13,2 Years
+P079,Water Purifier,Home Appliances,Kent,13699,19,2 Years
+P080,Iron,Home Appliances,Philips,1199,61,1 Year
+P081,Ceiling Fan,Home Appliances,Havells,2699,21,2 Years
+P082,DSLR Camera,Cameras,Canon,58799,7,2 Years
+P083,Action Camera,Cameras,GoPro,33099,14,1 Year
+P084,Security Camera,Cameras,CP Plus,6199,27,1 Year
+P085,Camera Tripod,Cameras,Manfrotto,2299,20,1 Year
+P086,Mirrorless Camera,Cameras,Sony,84399,10,2 Years
+P087,Gaming Mouse,Gaming,Logitech,3699,28,1 Year
+P088,Gaming Headset,Gaming,HyperX,6599,19,1 Year
+P089,Gaming Controller,Gaming,Sony,5699,35,1 Year
+P090,Gaming Keyboard,Gaming,Razer,6199,25,1 Year
+P091,Gaming Monitor,Gaming,ASUS,33699,18,3 Years
+P092,VR Headset,Gaming,Meta,42399,9,1 Year
+P093,Smart Bulb,Smart Home,Philips,1099,35,1 Year
+P094,Smart Plug,Smart Home,Mi,699,44,1 Year
+P095,Video Doorbell,Smart Home,Ring,8799,17,1 Year
+P096,Smart Lock,Smart Home,Godrej,9099,15,2 Years
+P097,Smart Speaker,Smart Home,Amazon,8799,20,1 Year
+P098,Convertible Laptop,Computers,HP,67199,10,2 Years
+P099,Wireless Charger Stand,Accessories,Belkin,1499,24,1 Year
+P100,Bluetooth Adapter,Accessories,TP-Link,999,59,1 Year
+P101,Ring Light,Accessories,Boya,1699,37,6 Months
+P102,Portable SSD,Storage,Crucial,10599,25,3 Years
+P103,Graphics Card,Computers,NVIDIA,43199,12,3 Years
+P104,Processor,Computers,Intel,35199,18,3 Years
+P105,RAM Module,Computers,Corsair,3399,34,5 Years
+P106,Motherboard,Computers,ASUS,24699,22,3 Years
+P107,Power Supply Unit,Computers,Corsair,8199,24,3 Years
+P108,Cabinet,Computers,NZXT,7199,13,1 Year
+P109,Wireless Router,Networking,Asus,8899,24,2 Years
+P110,Ethernet Cable,Networking,D-Link,330,52,1 Year
+P111,Surge Protector,Accessories,Belkin,1099,26,2 Years
+P112,Cable Modem Router Combo,Networking,Netgear,9599,10,2 Years
+P113,Portable Charger,Accessories,Mi,1199,51,6 Months
+P114,Bluetooth Tracker,Accessories,Apple,4199,21,1 Year
+P115,Document Scanner,Printers,Epson,8799,8,1 Year
+P116,3D Printer,Printers,Creality,43499,6,1 Year
+P117,Whiteboard,Furniture,Nilkamal,3599,18,1 Year
+P118,Recliner,Furniture,Godrej Interio,20899,14,3 Years
+P119,TV Unit,Furniture,Durian,7199,9,1 Year
+P120,Smart TV,Electronics,Sony,46599,17,2 Years

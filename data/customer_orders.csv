@@ -1,0 +1,169 @@
+Customer_ID,Name,Order_ID,Product,Amount (₹),Payment_Status,Payment_Method,Order_Date
+C001,Rahul Sharma,ORD1001,Wireless Mouse,699,Paid,Online,2026-06-01
+C002,Priya Verma,ORD1002,Keyboard,999,Paid,Offline,2026-06-02
+C003,Aman Gupta,ORD1003,Laptop,45000,Paid,Online,2026-06-03
+C004,Sneha Singh,ORD1004,Monitor,11999,Not Paid,Offline,2026-06-04
+C005,Rohit Mehta,ORD1005,Smartphone,25500,Paid,Online,2026-06-05
+C006,Anjali Rao,ORD1006,Headphones,1299,Paid,Offline,2026-06-06
+C007,Vijay Patel,ORD1007,Tablet,17499,Not Paid,Offline,2026-06-07
+C008,Neha Joshi,ORD1008,Printer,4999,Paid,Offline,2026-06-08
+C009,Karan Verma,ORD1009,Smartwatch,3499,Paid,Offline,2026-06-09
+C010,Divya Sharma,ORD1010,Desk Lamp,1199,Paid,Online,2026-06-10
+C011,Ankit Joshi,ORD1011,Camera,15000,Paid,Offline,2026-06-11
+C012,Pooja Arora,ORD1012,Webcam,2499,Not Paid,Offline,2026-06-12
+C013,Amit Kumar,ORD1013,Chair,2499,Paid,Online,2026-06-13
+C014,Simran Kaur,ORD1014,Desk Chair,3499,Paid,Offline,2026-06-14
+C015,Meena Patel,ORD1015,Bluetooth Speaker,1999,Not Paid,Offline,2026-06-15
+C016,Ramesh Singh,ORD1016,Gaming Chair,4999,Paid,Online,2026-06-16
+C017,Alok Jain,ORD1017,Monitor,11999,Paid,Offline,2026-06-17
+C018,Kavita Roy,ORD1018,Laptop Bag,1199,Paid,Online,
+C019,Sarika Joshi,ORD1019,Keyboard,1360,Paid,Online,2026-06-18
+C020,Manish Bose,ORD1020,Headphones,3220,Paid,Online,2026-06-19
+C021,Vinod Shetty,ORD1021,Keyboard,1170,Paid,Offline,2026-06-20
+C022,Rakesh Pandey,ORD1022,Table Lamp,1170,Not Paid,Online,2026-06-21
+C023,Kritika Mishra,ORD1023,Router,3780,Paid,Offline,2026-06-22
+C024,Pooja Ghosh,ORD1024,Tablet,17880,Not Paid,Offline,2026-06-23
+C025,Megha Rastogi,ORD1025,Mixer Grinder,3520,Not Paid,Online,2026-06-24
+C026,Nitin Trivedi,ORD1026,Microwave Oven,16460,Paid,Online,2026-06-25
+C027,Hemant Menon,ORD1027,Headphones,1750,Not Paid,Online,2026-06-26
+C028,Ashish Jain,ORD1028,Microwave Oven,12820,Paid,Online,2026-06-27
+C029,Prakash Mehta,ORD1029,Wall Clock,1050,Paid,Offline,2026-06-28
+C030,Naveen Bhatt,ORD1030,Trimmer,1450,Paid,Offline,2026-06-29
+C031,Swati Gupta,ORD1031,Mechanical Keyboard,5780,Paid,Online,2026-06-30
+C032,Aditi Agarwal,ORD1032,Desk Chair,5680,Paid,Offline,2026-07-01
+C033,Suresh Malhotra,ORD1033,Smartwatch,4020,Paid,Online,2026-07-02
+C034,Sunil Naidu,ORD1034,Study Table,6460,Paid,Offline,2026-07-03
+C035,Pooja Singh,ORD1035,Printer,4750,Paid,Offline,2026-07-04
+C036,Karan Ghosh,ORD1036,Electric Kettle,2020,Not Paid,Online,2026-07-05
+C037,Priya Joshi,ORD1037,Mixer Grinder,4680,Paid,Online,2026-07-06
+C038,Manoj Rastogi,ORD1038,Wireless Mouse,890,Paid,Offline,2026-07-07
+C039,Sarita Roy,ORD1039,Cooler,12480,Paid,Offline,2026-07-08
+C040,Shalini Kaur,ORD1040,Microwave Oven,9640,Paid,Offline,2026-07-09
+C041,Rahul Shetty,ORD1041,Mechanical Keyboard,6500,Paid,Offline,2026-07-10
+C042,Radha Chopra,ORD1042,Monitor,12940,Not Paid,Offline,2026-07-11
+C043,Sachin Mehta,ORD1043,Mixer Grinder,3530,Paid,Online,2026-07-12
+C044,Kiran Yadav,ORD1044,Wall Clock,830,Not Paid,Offline,2026-07-13
+C045,Sunny Nair,ORD1045,USB-C Hub,1820,Not Paid,Offline,2026-07-14
+C046,Girish Pandey,ORD1046,Printer,5530,Paid,Online,2026-07-15
+C047,Swati Naidu,ORD1047,Bluetooth Speaker,1030,Paid,Offline,2026-07-16
+C048,Rohit Bansal,ORD1048,Smartphone,28600,Paid,Online,2026-07-17
+C049,Varun Kulkarni,ORD1049,Backpack,3140,Paid,Online,2026-07-18
+C050,Amit Patel,ORD1050,Wireless Earbuds,4400,Paid,Online,2026-07-19
+C051,Manish Patel,ORD1051,Monitor,15600,Paid,Offline,2026-07-20
+C052,Vikram Nair,ORD1052,Mixer Grinder,6170,Paid,Online,2026-07-21
+C053,Divya Pandey,ORD1053,Trimmer,1200,Paid,Offline,2026-07-22
+C054,Pooja Chopra,ORD1054,Camera,23320,Paid,Online,2026-07-23
+C055,Neha Jain,ORD1055,Electric Kettle,800,Not Paid,Online,2026-07-24
+C056,Pankaj Menon,ORD1056,Wireless Earbuds,6050,Paid,Online,2026-07-25
+C057,Preeti Singh,ORD1057,Table Lamp,1710,Paid,Online,2026-07-26
+C058,Vandana Tiwari,ORD1058,Water Purifier,11580,Paid,Online,2026-07-27
+C059,Karan Shetty,ORD1059,Smartphone,28410,Paid,Offline,2026-07-28
+C060,Rajeev Shetty,ORD1060,Laptop,37370,Paid,Offline,2026-07-29
+C061,Kiran Reddy,ORD1061,Mechanical Keyboard,4450,Paid,Online,2026-07-30
+C062,Pankaj Agarwal,ORD1062,Smartphone,13610,Paid,Offline,2026-07-31
+C063,Divya Bose,ORD1063,Desk Chair,5070,Paid,Offline,2026-08-01
+C064,Anita Desai,ORD1064,Power Bank,1220,Paid,Online,2026-08-02
+C065,Latha Yadav,ORD1065,Wireless Mouse,740,Not Paid,Online,2026-08-03
+C066,Kavita Malhotra,ORD1066,Printer,4380,Paid,Online,2026-08-04
+C067,Arjun Bansal,ORD1067,Desk Chair,5810,Paid,Online,2026-08-05
+C068,Vijay Rao,ORD1068,Wireless Earbuds,3760,Paid,Online,2026-08-06
+C069,Kiran Jain,ORD1069,Graphic Tablet,11010,Paid,Online,2026-08-07
+C070,Sunny Kaur,ORD1070,Mixer Grinder,2790,Not Paid,Offline,2026-08-08
+C071,Alok Gupta,ORD1071,USB-C Hub,1740,Not Paid,Offline,2026-08-09
+C072,Komal Reddy,ORD1072,Gaming Chair,8680,Paid,Offline,2026-08-10
+C073,Vidya Kaur,ORD1073,Gaming Chair,9660,Not Paid,Offline,2026-08-11
+C074,Sneha Roy,ORD1074,Router,4870,Not Paid,Offline,2026-08-12
+C075,Harsh Jain,ORD1075,Tablet,18270,Not Paid,Offline,2026-08-13
+C076,Pankaj Chauhan,ORD1076,USB-C Hub,2680,Paid,Online,
+C077,Vikram Kapoor,ORD1077,Router,3780,Not Paid,Offline,2026-08-15
+C078,Prakash Tiwari,ORD1078,Study Table,9060,Not Paid,Online,2026-08-16
+C079,Meena Malhotra,ORD1079,Webcam,3880,Not Paid,Online,2026-08-17
+C080,Manisha Chauhan,ORD1080,Mechanical Keyboard,6070,Paid,Online,2026-08-18
+C081,Snehal Nair,ORD1081,Laptop Bag,790,Paid,Online,2026-08-19
+C082,Anil Nair,ORD1082,Microwave Oven,14060,Paid,Offline,2026-08-20
+C083,Yash Joshi,ORD1083,USB-C Hub,2040,Paid,Online,2026-08-21
+C084,Payal Dutta,ORD1084,Smartwatch,3570,Paid,Offline,2026-08-22
+C085,Sanjay Trivedi,ORD1085,Backpack,2430,Paid,Offline,2026-08-23
+C086,Arjun Mishra,ORD1086,Table Lamp,1260,Paid,Online,2026-08-24
+C087,Rajesh Jain,ORD1087,Headphones,1960,Paid,Offline,2026-08-25
+C088,Gopal Chopra,ORD1088,USB-C Hub,1460,Not Paid,Online,2026-08-26
+C089,Rajesh Trivedi,ORD1089,Smartphone,42840,Paid,Offline,2026-08-27
+C090,Kritika Ghosh,ORD1090,Fitness Band,2940,Paid,Offline,
+C091,Gopal Patel,ORD1091,Wireless Earbuds,3290,Paid,Offline,2026-08-29
+C092,Vijay Dutta,ORD1092,Gaming Chair,8990,Paid,Offline,2026-08-30
+C093,Tanvi Shetty,ORD1093,Mechanical Keyboard,6120,Paid,Offline,2026-08-31
+C094,Kunal Pandey,ORD1094,Camera,25550,Paid,Offline,2026-09-01
+C095,Sunita Yadav,ORD1095,Fitness Band,3870,Paid,Online,2026-09-02
+C096,Gaurav Bhatt,ORD1096,Router,4120,Not Paid,Online,2026-09-03
+C097,Shreya Kaur,ORD1097,Desk Chair,3260,Paid,Online,2026-09-04
+C098,Neha Reddy,ORD1098,Office Desk,12380,Not Paid,Offline,2026-09-05
+C099,Sarita Kulkarni,ORD1099,Electric Kettle,1780,Paid,Online,2026-09-06
+C100,Jyoti Bose,ORD1100,Mixer Grinder,4300,Paid,Online,2026-09-07
+C101,Shreya Bansal,ORD1101,Study Table,9430,Paid,Online,2026-09-08
+C102,Vidya Bose,ORD1102,Keyboard,1000,Paid,Offline,2026-09-09
+C103,Sunil Kumar,ORD1103,Portable Projector,11980,Paid,Online,2026-09-10
+C104,Bhavna Bansal,ORD1104,Electric Kettle,1370,Paid,Offline,2026-09-11
+C105,Ankit Saxena,ORD1105,Keyboard,1370,Paid,Offline,2026-09-12
+C106,Latha Mehta,ORD1106,Laptop,34030,Not Paid,Online,
+C107,Nisha Chopra,ORD1107,Smartwatch,5880,Paid,Offline,2026-09-14
+C108,Kritika Malhotra,ORD1108,Microwave Oven,9750,Paid,Offline,2026-09-15
+C109,Renu Jain,ORD1109,USB-C Hub,1220,Paid,Offline,2026-09-16
+C110,Naveen Kapoor,ORD1110,Chair,2310,Paid,Offline,2026-09-17
+C111,Kritika Pillai,ORD1111,Wall Clock,1220,Paid,Offline,2026-09-18
+C112,Vivek Bose,ORD1112,Wireless Earbuds,6920,Paid,Online,2026-09-19
+C113,Jyoti Sinha,ORD1113,Tablet,19100,Not Paid,Offline,2026-09-20
+C114,Rohan Kaur,ORD1114,Wireless Earbuds,2940,Paid,Offline,2026-09-21
+C115,Anil Saxena,ORD1115,Portable Projector,16140,Not Paid,Offline,2026-09-22
+C116,Anita Rao,ORD1116,External Hard Drive,6690,Paid,Online,2026-09-23
+C117,Naveen Bansal,ORD1117,Keyboard,1100,Not Paid,Online,2026-09-24
+C118,Kiran Bansal,ORD1118,External Hard Drive,7880,Paid,Online,
+C119,Vikram Rao,ORD1119,Gaming Chair,13660,Paid,Offline,2026-09-26
+C120,Prakash Sinha,ORD1120,Graphic Tablet,4280,Paid,Online,2026-09-27
+C121,Radha Naidu,ORD1121,Microwave Oven,14750,Paid,Online,2026-09-28
+C122,Kunal Bansal,ORD1122,Air Purifier,12430,Paid,Online,2026-09-29
+C123,Vikram Agarwal,ORD1123,Printer,7890,Not Paid,Offline,2026-09-30
+C124,Siddharth Saxena,ORD1124,External Hard Drive,7830,Not Paid,Online,2026-10-01
+C125,Amit Nair,ORD1125,Power Bank,1360,Paid,Online,2026-10-02
+C126,Alok Bhatt,ORD1126,Laptop,35570,Paid,Offline,2026-10-03
+C127,Gopal Sinha,ORD1127,Tablet,12200,Paid,Online,2026-10-04
+C128,Ritu Singh,ORD1128,Laptop Bag,1680,Paid,Online,2026-10-05
+C129,Snehal Singh,ORD1129,Desk Lamp,1100,Not Paid,Offline,2026-10-06
+C130,Anita Joshi,ORD1130,Trimmer,2560,Paid,Offline,2026-10-07
+C131,Renu Yadav,ORD1131,Electric Kettle,1720,Not Paid,Online,2026-10-08
+C132,Sunil Pillai,ORD1132,Backpack,1440,Paid,Offline,2026-10-09
+C133,Arjun Reddy,ORD1133,Laptop Bag,860,Paid,Online,2026-10-10
+C134,Rahul Khanna,ORD1134,Graphic Tablet,11700,Paid,Online,2026-10-11
+C135,Kritika Rastogi,ORD1135,Smartphone,28300,Not Paid,Offline,2026-10-12
+C136,Dinesh Nair,ORD1136,Wireless Earbuds,2440,Paid,Offline,2026-10-13
+C137,Suresh Mehta,ORD1137,Monitor,11720,Paid,Offline,2026-10-14
+C138,Mohit Pandey,ORD1138,Printer,7340,Paid,Offline,2026-10-15
+C139,Vinod Bose,ORD1139,Fitness Band,3090,Paid,Online,2026-10-16
+C140,Bhavna Shetty,ORD1140,Laptop Bag,750,Paid,Offline,2026-10-17
+C141,Snehal Naidu,ORD1141,Keyboard,1380,Paid,Online,2026-10-18
+C142,Gopal Roy,ORD1142,Smart Bulb,1030,Paid,Offline,2026-10-19
+C143,Rajeev Mishra,ORD1143,Fitness Band,1670,Paid,Online,2026-10-20
+C144,Simran Jain,ORD1144,Router,4870,Paid,Online,2026-10-21
+C145,Sarita Dutta,ORD1145,Laptop,61810,Paid,Online,2026-10-22
+C146,Hemant Kapoor,ORD1146,Cooler,11760,Not Paid,Offline,2026-10-23
+C147,Ravi Singh,ORD1147,Chair,4120,Paid,Offline,2026-10-24
+C148,Sarita Singh,ORD1148,Desk Chair,4090,Paid,Offline,2026-10-25
+C149,Kritika Sinha,ORD1149,Printer,3740,Not Paid,Offline,2026-10-26
+C150,Manoj Pillai,ORD1150,Trimmer,1030,Paid,Online,2026-10-27
+C151,Meena Rastogi,ORD1151,Printer,8800,Not Paid,Online,2026-10-28
+C152,Alka Bhatt,ORD1152,Office Desk,13900,Not Paid,Online,2026-10-29
+C153,Shreya Nair,ORD1153,Wall Clock,920,Paid,Online,2026-10-30
+C154,Hemant Khanna,ORD1154,Router,5660,Paid,Online,2026-10-31
+C155,Poonam Naidu,ORD1155,Fitness Band,1910,Paid,Online,2026-11-01
+C156,Sarita Bose,ORD1156,Electric Kettle,1730,Not Paid,Offline,2026-11-02
+C157,Gaurav Kulkarni,ORD1157,Electric Kettle,1280,Not Paid,Online,2026-11-03
+C158,Rajesh Ghosh,ORD1158,Electric Kettle,2160,Paid,Offline,2026-11-04
+C159,Rohit Kumar,ORD1159,Cooler,12910,Paid,Offline,2026-11-05
+C160,Ajay Patel,ORD1160,Water Purifier,16480,Paid,Online,2026-11-06
+C161,Nisha Mehta,ORD1161,Smart Bulb,1300,Not Paid,Online,2026-11-07
+C162,Latha Rao,ORD1162,Router,5870,Paid,Online,2026-11-08
+C163,Sarita Sinha,ORD1163,Mixer Grinder,2790,Paid,Online,2026-11-09
+C164,Mohit Iyer,ORD1164,Headphones,2580,Not Paid,Offline,2026-11-10
+C165,Amit Pandey,ORD1165,Camera,19810,Not Paid,Online,2026-11-11
+C166,Payal Chauhan,ORD1166,Microwave Oven,14060,Paid,Online,2026-11-12
+C167,Ritu Jain,ORD1167,Webcam,1820,Paid,Online,2026-11-13
+C168,Ruchi Naidu,ORD1168,Desk Lamp,1270,Paid,Online,2026-11-14

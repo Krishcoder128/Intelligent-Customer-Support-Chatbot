@@ -1,0 +1,14 @@
+[
+    "account_creation",
+    "account_management",
+    "account_recovery",
+    "billing_inquiry",
+    "cancel_order",
+    "greeting",
+    "human_handoff",
+    "order_tracking",
+    "product_inquiry",
+    "promotions",
+    "refund",
+    "shipping_info"
+]

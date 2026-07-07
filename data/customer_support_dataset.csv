@@ -1,0 +1,2105 @@
+text,intent
+Can you explain this charge on my account?,billing_inquiry
+It's been a week and my order hasn't shown up,order_tracking
+"My account got suspended after multiple wrong password attempts, how long is the ban",account_recovery
+need help escalating my refund request,refund
+can support intervene since seller is ignoring my refund request,refund
+Why is there a convenience fee on this transaction?,billing_inquiry
+Do you have a price match guarantee against other sellers?,promotions
+Is there a human I can chat with?,human_handoff
+Is there a special promotion for customers switching payment methods to autopay,promotions
+"Good morning, coffee in hand, ready to chat",greeting
+How do I get a login for your service?,account_creation
+can support manually reset things if automated system fails,account_recovery
+"Namaste, need some help",greeting
+why cant i talk to a human right away,human_handoff
+Is there a minimum age to create an account?,account_creation
+how do refunds work if shipping itself was delayed excessively,shipping_info
+how do i remove an old device from trusted devices list,account_management
+Escalate my case to a supervisor,human_handoff
+"Hey, this is my second time messaging today",greeting
+What's the status of my refund?,refund
+Can you check if my refund got stuck due to a bank holiday,refund
+"I've submitted ID proof for recovery, how long until it's reviewed",account_recovery
+can i change the email notifications frequency,account_management
+I need this bill reissued since the company name was misspelled,billing_inquiry
+I want to switch my default review visibility settings,account_management
+Is there a bulk discount if I buy more than five units?,product_inquiry
+Has it shipped yet,order_tracking
+Is this suitable for someone with sensitive skin?,product_inquiry
+Stop my order from shipping,cancel_order
+How do I register if I already have a similar account with a competitor?,account_creation
+I need this invoice reissued with my company's GST number,billing_inquiry
+Is there a discount available for customers who consolidate multiple accounts,promotions
+"Hola, need some assistance",greeting
+can i choose morning or evening delivery slot,shipping_info
+I never received the password reset email,account_recovery
+Can support check if a billing error is affecting other customers too,billing_inquiry
+"Good evening, hope you're wrapping up your shift smoothly",greeting
+Is this product allergy tested?,product_inquiry
+chek my order status pls,order_tracking
+"the delivery attempt failed message doesnt make sense, i was home all day",order_tracking
+"Do you run flash sales, and how do I get notified?",promotions
+"product quality bad, want refund not replacement",refund
+My payment failed but money was deducted,billing_inquiry
+Can I request that fragile items be shipped separately from the rest of my order,shipping_info
+Can you check if my company's tax exemption was applied correctly,billing_inquiry
+I need proof of payment for reimbursement from my employer,billing_inquiry
+Monitor price,product_inquiry
+Is delivery available to educational campuses with restricted access,shipping_info
+Package tracking stuck at 'processing' for days now,order_tracking
+"Hey, is it fine to ask more than one question?",greeting
+Can't sign in to my account,account_recovery
+my order got skipped during delivery apparently,order_tracking
+cant verify identity for recovery since i changed my number,account_recovery
+Tell me about Headphones,product_inquiry
+There's a billing issue with my account,billing_inquiry
+acount creation help,account_creation
+refund stuck for over a week,refund
+Can you update my preferred customer support language,account_management
+Can you tell me if this product ships with region-specific plugs,product_inquiry
+Is this compatible with older accessories from the same brand?,product_inquiry
+Can support verify if my payment plan was set up correctly,billing_inquiry
+Show Logitech products,product_inquiry
+"This was a gift order and the recipient already has one, cancel please",cancel_order
+I received the wrong item and want a refund,refund
+please assign this to an actual support executive,human_handoff
+Track order pls,order_tracking
+What's the price of a Dell laptop?,product_inquiry
+I need this handled by a person familiar with my account history,human_handoff
+"I'm having second thoughts, can I delete my account right after creating it?",account_creation
+Can support check if my payment was processed by the correct merchant,billing_inquiry
+Can I create an account using someone else's referral link?,account_creation
+"the bot missed the point of my issue entirely, need a human",human_handoff
+cant remember if i used gmail or yahoo to sign up originally,account_recovery
+"Registering now, just want to double check this is legitimate and safe",account_creation
+Can you tell me if there's a way to gift loyalty tier status to a family member,promotions
+Is there a way to sign up using a fingerprint instead of a password,account_creation
+2 charges for 1 order pls fix,billing_inquiry
+order not delivred yet,order_tracking
+My order shows as shipped but tracking hasn't moved in days,order_tracking
+I've been refreshing the tracking page all day with no updates,order_tracking
+Why was my refund request auto-closed without resolution,refund
+I keep getting sent in a loop between login and password reset pages,account_recovery
+New user registration,account_creation
+What's the shipping cost to my city?,shipping_info
+Can you confirm if seasonal discounts differ by product category,promotions
+Is there a dedicated shipping option for temperature-sensitive products,shipping_info
+"Hello there, hope you're having a good day",greeting
+How do I turn off promotional emails but keep order updates?,account_management
+Can you tell me if seasonal promotions differ for existing versus new subscribers,promotions
+Why was I only refunded for one item when I returned the entire set,refund
+want to create account but worried about spam emails after,account_creation
+Can you tell me the average delivery condition feedback for fragile items like this,product_inquiry
+is cancellation instant or does it take time to process,cancel_order
+I need this cancelled since it was a test order I placed by mistake,cancel_order
+Can I return an item without the original packaging?,refund
+"Hey, quick hello before my actual question",greeting
+New account please,account_creation
+Is same-day delivery available for perishable items specifically,shipping_info
+Can you tell me if there's a special rate for renewing memberships early,promotions
+"The item I received doesn't match the description, refund please",refund
+I want to know where ORD1125 is,order_tracking
+order says in transit but stuck same city for days,order_tracking
+Please remove my old phone number and add the new one,account_management
+"I've been going in circles with the bot, please help directly",human_handoff
+Can support confirm cancellation before my auto-pay tries to charge me again,cancel_order
+Do you deliver to PO boxes?,shipping_info
+"My account recovery texts are going to my old number, how do I redirect them",account_recovery
+Do you provide shipment consolidation for customers ordering frequently,shipping_info
+Does this require batteries?,product_inquiry
+need to stop this order from processing,cancel_order
+"Recovery page shows a spinning loader forever, is it broken",account_recovery
+Do you provide same-day delivery slots that can be booked in advance,shipping_info
+"Hello, hope you don't mind a random question",greeting
+How many units are left in stock right now?,product_inquiry
+I'd like to join,account_creation
+What's the typical delay during monsoon season for deliveries?,shipping_info
+Can you confirm if this comes with a global or region-locked warranty,product_inquiry
+trying to edit my details but the save button isnt working,account_management
+Is anyone from the real team monitoring this chat?,human_handoff
+is it in stock,product_inquiry
+Can you tell me if there's a discount for orders placed through voice assistants,promotions
+"Good evening, quick favor to ask",greeting
+need to update my tax information for invoices,account_management
+Is the support team online right now?,greeting
+account frozen after i tried logging in from abroad,account_recovery
+"Please cancel, I realized I need a different warranty option not offered on this listing",cancel_order
+Do you provide shipping updates via WhatsApp,shipping_info
+Can I get a refund for an item I never actually received?,refund
+Chk order status,order_tracking
+Can I request a specific driver if I've had a good experience before,shipping_info
+Is there a lighter or travel-friendly version of this product,product_inquiry
+can someone senior look into this personally,human_handoff
+account recovery stuck at verification step for hours,account_recovery
+is there no option for live agent chat,human_handoff
+I'm locked out of my account,account_recovery
+"I'm trying to sign up from outside the country, is that allowed?",account_creation
+Can you confirm if my order qualifies for click-and-collect at a nearby store,shipping_info
+i dont have the old device anymore that had 2fa set up,account_recovery
+"Hi, this is my first time reaching out to you guys",greeting
+Good morning,greeting
+Can you check why the refund policy differs for this specific category of item,refund
+I need to update my emergency contact information,account_management
+I need to escalate this beyond the first level of support,human_handoff
+"I placed this order by mistake this morning, can it still be cancelled?",cancel_order
+Is there a way to see all active promotions in one place,promotions
+Can you verify if an early payment discount was correctly applied,billing_inquiry
+"This bot isn't helping, please transfer me",human_handoff
+I want to opt out of SMS notifications entirely,account_management
+Is there someone available right now who can take over this conversation,human_handoff
+HP printer details,product_inquiry
+Is ORD1124 out for delivery?,order_tracking
+Is there an offer tied to using a specific delivery address repeatedly,promotions
+"my package shows customs clearance pending, how long does that take",order_tracking
+billing amount doesnt match what i saw at checkout,billing_inquiry
+Is there a way to bundle shipping across multiple sellers into one delivery,shipping_info
+how long b4 refund reflects in my account,refund
+Do I need an email to register?,account_creation
+Any offers on this product specifically?,promotions
+"Hello, I hope I'm reaching the right place",greeting
+Can I set a secondary approver for changes made to my business account,account_management
+I can't access my account anymore,account_recovery
+Can you check if my saved coupon expired right before I used it,billing_inquiry
+tracking page frozen on same status for ages,order_tracking
+Edit my profile,account_management
+I want this cancelled urgently since I'm returning the gift I already have,cancel_order
+"The system says my account is under review, what does that mean for recovery",account_recovery
+Can you confirm the shelf life once the package is opened,product_inquiry
+"Hello, back with yet another small question",greeting
+"Please unlock my account, I've been trying since this morning",account_recovery
+can you delete my old phone number from the system entirely,account_management
+Can you tell me if this ships with a protective screen already applied,product_inquiry
+Can you patch me through to someone in billing specifically?,human_handoff
+i need someone to manually verify and unlock my account,account_recovery
+the refund promised on my bill hasnt reflected yet,billing_inquiry
+Can you get someone to confirm in writing that this will be resolved by tomorrow,human_handoff
+"I need my order urgently, can you expedite the shipping status check?",order_tracking
+Is this dishwasher safe?,product_inquiry
+Is there a cutoff time today after which cancellation won't be possible,cancel_order
+Any festival sale details?,promotions
+"Is this suitable for use in commercial or shared spaces, not just personal use",product_inquiry
+Can support directly call the driver assigned to my delivery,order_tracking
+Keyboard price,product_inquiry
+Can you tell me if this comes with an option for extended technical support,product_inquiry
+Sign me up,account_creation
+Gaming monitor information,product_inquiry
+"Half the refund amount is missing, where's the rest?",refund
+"I want a real person, not a bot",human_handoff
+My account seems to have merged with someone else's by mistake,account_recovery
+Is there a student discount?,promotions
+Can you verify if my refund request was auto-approved or needs manual review,refund
+can u tell me the current location of my order,order_tracking
+How do I reset my password?,account_recovery
+Can someone check why my order skipped a scheduled hub,order_tracking
+Can I request a customized engraving on this product?,product_inquiry
+I need this cancelled since the promised launch date passed already,cancel_order
+I want to change my account's time zone setting,account_management
+Show me Bluetooth speakers,product_inquiry
+loyalty points expire hote hai kya,promotions
+Is there a discount code for existing customers?,promotions
+I need this cancelled because it no longer matches my renovated space's dimensions,cancel_order
+Can support confirm if refund eligibility differs for clearance sale items,refund
+Has ORD1109 been delivered?,order_tracking
+Is there a way to flag this conversation for supervisor review immediately,human_handoff
+"I forgot to add my address during signup, can I add it now?",account_creation
+Why did my payment method get charged despite selecting installments,billing_inquiry
+My EMI amount deducted is different from what was agreed,billing_inquiry
+Can delivery be tracked jointly if multiple people share one address,shipping_info
+"Hi, thanks for the assistance last time, back again",greeting
+Is my order on the way?,order_tracking
+I clicked forgot password but no email came through at all,account_recovery
+Track package ORD1163,order_tracking
+how 2 stop this order,cancel_order
+"Good afternoon, here with a follow-up question",greeting
+Can you confirm if returning customers get priority access to sales,promotions
+"Hello, thanks for jumping on chat with me",greeting
+"I opened the box and it was completely empty, I need a refund",refund
+My delivery tracking shows a completely wrong recipient name,order_tracking
+I demand to speak with a manager immediately,human_handoff
+I was refunded to the wrong payment method,refund
+Why does my statement show pending even though the order was delivered weeks ago,billing_inquiry
+I no longer have access to my old sim card for OTP verification,account_recovery
+Do you offer combined delivery tracking for orders from multiple warehouses,shipping_info
+my tracking id shows invalid,order_tracking
+"Hi, quick greeting before I get into my issue",greeting
+do you guys deliver to apartments with security gates fine,shipping_info
+"Good night, sorry for the late message but I needed help",greeting
+Can you confirm if promotional bundles can be customized before purchase,promotions
+I need help updating recurring delivery preferences,account_management
+Can you confirm if this discount is valid on already discounted items,promotions
+Is this suitable for people with specific dietary restrictions,product_inquiry
+Can I apply a coupon after checkout instead of before?,promotions
+I need to recover access before an important sale ends today,account_recovery
+Please locate order ORD1057,order_tracking
+why does the total not match the cart summary i saw,billing_inquiry
+"Hey, is it okay to ask a general question here?",greeting
+registration process pls,account_creation
+Can you check if my billing was affected by a recent system migration,billing_inquiry
+Is there someone who can review both my past interactions before responding,human_handoff
+The refund I received doesn't include the shipping fee I paid,refund
+Is there an offer for customers who've had a recent support issue resolved,promotions
+Cancel now please,cancel_order
+is dis suitable for humid climates,product_inquiry
+Hello hello,greeting
+I need to know if refund timelines differ between debit and credit cards,refund
+Can you help me set which address shows up by default at checkout,account_management
+Can I update the account language without changing the region,account_management
+Yo,greeting
+Money got deducted but the order wasn't placed,billing_inquiry
+"Want to make a new profile, what info do you need from me?",account_creation
+"I entered the wrong size, can I cancel and reorder instead?",cancel_order
+Can billing check if my loyalty discount was reflected in the final total,billing_inquiry
+Is there a discount tier based on how long I've been a customer,promotions
+"please escalate my account recovery, its been days now",account_recovery
+"Hey, I'll try to keep this brief",greeting
+Tell me about Keyboard,product_inquiry
+I need clarification on a foreign transaction fee that appeared,billing_inquiry
+I need clarification on additional charges listed as 'miscellaneous fees',billing_inquiry
+my account got logged into from an unknown device,account_recovery
+I want to update my saved vehicle details for delivery instructions,account_management
+need help changing my display name,account_management
+Hey ya,greeting
+I need this order cancelled since I'm no longer eligible for the discount used,cancel_order
+Is this product eco-friendly or biodegradable?,product_inquiry
+I want to cancel since I found a bundle deal that's better value,cancel_order
+I need a human to double check this before I proceed further,human_handoff
+Is this item compatible with international power outlets,product_inquiry
+"Hey, my name is Rahul, I have a query",greeting
+Give me status on ORD1010 please,order_tracking
+do you use different couriers for different regions,shipping_info
+I want proof that my package actually exists in the courier's system,order_tracking
+I need to update my account details,account_management
+Delivery status for ORD1071,order_tracking
+Is there a discount if I opt out of cash on delivery,promotions
+any student ofer available,promotions
+getting billed for a service i never subscribed to,billing_inquiry
+Show me all Laptops,product_inquiry
+Can support cancel an order that's stuck in a processing loop,cancel_order
+Can you confirm whether my order left the origin facility yet,order_tracking
+"Hey, checking if anyone's free to help right now",greeting
+Is there an offer for customers who pre-register interest in upcoming products,promotions
+do u deliver outside india,shipping_info
+Is there a difference in quality between the online and in-store version,product_inquiry
+The tracking link you sent just shows a blank page,order_tracking
+want to remove my account from marketing lists,account_management
+How many days for delivery?,shipping_info
+Is anyone there?,greeting
+want to update everything before my next order ships,account_management
+I need my invoice,billing_inquiry
+The refund amount credited is less than what I paid,refund
+Create a new profile for me,account_creation
+Can support confirm if the refund includes any cashback originally earned,refund
+Can I use a temporary email to register?,account_creation
+Can shipping estimates change after an order is already placed,shipping_info
+I need an update since my package has been at the same hub for days,order_tracking
+wanna cancel coz i ordered wrong size,cancel_order
+How to make a new account,account_creation
+"the reset link opens a blank page, is it broken",account_recovery
+Can you confirm if a billing dispute automatically pauses further charges,billing_inquiry
+how do i fix the 'email already registered' error,account_creation
+Pass reset,account_recovery
+Create account,account_creation
+Is there a signup fee?,account_creation
+Why does the app show conflicting refund statuses on different screens,refund
+been waiting all week for this delivery,order_tracking
+What's the return policy specifically for electronics like this?,product_inquiry
+The invoice I received doesn't match the items I actually ordered,billing_inquiry
+I need to change the account holder name for billing,account_management
+Do you send a welcome email after account creation?,account_creation
+Show Sony products,product_inquiry
+I need to register two separate profiles for my two shops,account_creation
+Can shipping timelines be affected by regional lockdowns or restrictions,shipping_info
+Does this come with a user manual in my language?,product_inquiry
+"The app shows my order was 'returned to sender', why would that happen?",order_tracking
+Can you confirm the exact voltage requirements for this appliance,product_inquiry
+Update my shipping address,account_management
+"need account to leave a review, how do i sign up",account_creation
+any cashbck offer,promotions
+"Hi, hoping to get a quick answer today",greeting
+What's happening with ORD1168?,order_tracking
+I want to cancel because shipping to my area got suspended temporarily,cancel_order
+acc suspended help,account_recovery
+Is there a live agent queue I can join right now,human_handoff
+"please cancel, this was clearly a duplicate transaction",cancel_order
+Can I gift my loyalty points to someone else?,promotions
+Can you give me a direct phone number to reach a person?,human_handoff
+Reset my password please,account_recovery
+Does the price include installation charges?,product_inquiry
+"Hi, glad I found this chat option",greeting
+Tell me about Monitor,product_inquiry
+I need to know if returning a gifted item still refunds the original buyer,refund
+Can billing errors from a previous invoice be adjusted in the next one,billing_inquiry
+I need to know if my order is stuck in customs,order_tracking
+Can I exchange instead of getting a refund?,refund
+"I already uploaded proof of the damaged item, what's the delay?",refund
+Is there a discount for paying the full amount upfront instead of EMI?,promotions
+Help me recover my account,account_recovery
+Is there a loyalty bonus specifically for reviewing purchased products,promotions
+Do you have same-day delivery for groceries specifically?,shipping_info
+"item broken, need rfund",refund
+"I think someone else accessed my account, please secure it",account_recovery
+"Can you speed up my refund, I need the money urgently?",refund
+Are there any discounts available?,promotions
+"Hi, just want to say your support has been great so far",greeting
+Can I sign up through a kiosk at your physical store,account_creation
+Is there a chance my order is sitting unclaimed somewhere,order_tracking
+How can I cancel a pending order?,cancel_order
+What's the difference between the two models?,product_inquiry
+Can you confirm if taxes were calculated based on my correct region,billing_inquiry
+is signing up complicated or quick,account_creation
+My refund shows processed but the bank hasn't credited it yet,refund
+I need to update the account recovery contact separately from login email,account_management
+Is this compatible with accessibility tools for differently-abled users,product_inquiry
+whats the actual reason for this shipping delay,order_tracking
+Is shipping pricing different for oversized but lightweight items,shipping_info
+My two-factor authentication code isn't being accepted,account_recovery
+Is there a way to get prioritized human support given my account tenure,human_handoff
+I want a daily update on my order until it arrives,order_tracking
+Is there a special discount during clearance of last season's stock,promotions
+I ordered two items together but only one is showing tracking updates,order_tracking
+Can support confirm whether recurring billing dates can be shifted to match payday,billing_inquiry
+Is there a way to request a translator along with a human agent,human_handoff
+Can you locate my order?,order_tracking
+How do I get my money back?,refund
+do you offer split delivery for large multi item orders,shipping_info
+"Hello, thanks for picking up so quickly",greeting
+"My account got locked right after I updated the app, coincidence or bug",account_recovery
+Can you confirm if shipping includes assembly for large furniture items,shipping_info
+Register me please,account_creation
+whats the catch with this festival discount,promotions
+Does international shipping include customs duties in the price?,shipping_info
+Can you escalate this directly to whoever manages refunds specifically,human_handoff
+Is there a way to get notified before a sale officially starts?,promotions
+I want to know if my order requires ID verification upon delivery,order_tracking
+can i register without agreeing to marketing emails,account_creation
+I filled the registration form but never got a confirmation email,account_creation
+"Hey, one more question if you don't mind",greeting
+I need to dispute a charge I don't recall authorizing,billing_inquiry
+"Hey, I placed an order last Tuesday and I'm getting worried since there's been no movement on tracking, could you look into it?",order_tracking
+need to fix account info,account_management
+Is there a way to reach the support head directly for a serious complaint,human_handoff
+The recovery process is asking for details I don't remember,account_recovery
+Why was I charged a restocking fee I wasn't told about,billing_inquiry
+What's the shelf life of this item?,product_inquiry
+Can you confirm if this offer is valid only on the first purchase after signup,promotions
+any partnership discounts with other brands right now,promotions
+Is there an anniversary sale event I should know about?,promotions
+need actual agent not bot,human_handoff
+"want to sign up my elderly parent, any simplified process",account_creation
+Why does the refund confirmation email reference a different order number,refund
+Change my delivery address,account_management
+account recovery page loads forever and times out,account_recovery
+"Hello, glad this chat exists, saves me a phone call",greeting
+trying to cancel from the app but keep getting an error,cancel_order
+Can I cancel part of my order and keep the rest?,cancel_order
+I want to update my profile visibility settings,account_management
+"cant login because the app says version mismatch, but i cant update either",account_recovery
+Need to unlock my account,account_recovery
+is dis genuine or fake,product_inquiry
+is express delivery costly,shipping_info
+the charge on my statement looks unfamiliar,billing_inquiry
+"registering for a webinar, do i need a full account",account_creation
+can i still cancel or is it too late now,cancel_order
+Can you verify if a promotional credit was properly applied to my bill,billing_inquiry
+Can I combine two discount codes?,promotions
+Can you confirm if this item is manufactured in-house or by a third party,product_inquiry
+Can support check if my order's barcode was scanned incorrectly,order_tracking
+Can I unlink my social media login from this account?,account_management
+"Hello, thanks for the quick turnaround usually",greeting
+Is there a dedicated team for issues that bots can't resolve,human_handoff
+Cancel order,cancel_order
+Can shipping be split so part arrives faster and the rest later,shipping_info
+I need help completing my profile setup after signing up,account_creation
+Can I get a live update on where my parcel is right now?,order_tracking
+The recovery link works but then shows an unrelated error page,account_recovery
+Can I create an account through a QR code on your packaging,account_creation
+Can you tell me if there's a way to donate unused loyalty points to charity,promotions
+"I heard there's a big sale coming up, when does it start?",promotions
+Why does the refund amount reflect a lower exchange rate than when I paid,refund
+Any first order discount?,promotions
+I need to change my consent for personalized ads,account_management
+How do I create an account for my small business?,account_creation
+"Please cancel this order, the color option I wanted is different",cancel_order
+Do you provide insurance for high-value shipments?,shipping_info
+this order needs to be cancelled urgently,cancel_order
+Tell me about Smartphone,product_inquiry
+order marked shiped but nothin recieved,order_tracking
+Good evening,greeting
+Anyone available?,greeting
+My card got charged even though I selected cash on delivery,billing_inquiry
+Can you check if a refund delay is linked to a bank processing holiday,refund
+"I need this handled by an actual person, not automated replies",human_handoff
+"billing support said this would be fixed last week, still pending",billing_inquiry
+I need this refund case reopened since it was closed without resolution,refund
+battery life kitni hai iski,product_inquiry
+The recovery process wants an old password I genuinely can't recall,account_recovery
+wat comes in the box,product_inquiry
+Tell me about Smartwatch,product_inquiry
+Is it too late to cancel?,cancel_order
+"Please cancel, I want to combine it with another order for free shipping",cancel_order
+paymnt shows failed but bank says deducted,billing_inquiry
+"My colleague set up an account for me, how do I take ownership of it?",account_creation
+"my order stuck somewhere, plz chek",order_tracking
+I need this refund escalated since customer care hasn't responded in days,refund
+How do I change my username?,account_management
+Is delivery time affected by the payment method chosen,shipping_info
+Forgot pass,account_recovery
+does dis need assembly,product_inquiry
+Is there a fallback recovery method if email and phone both fail,account_recovery
+"Hey, before I ask my question, are you live 24/7?",greeting
+my recovery questions dont match what i originally set,account_recovery
+warrenty details for dis item,product_inquiry
+Can you get someone from the escalations team to call me back today,human_handoff
+"Good morning, ready to get some help sorted",greeting
+Does this come with a warranty?,product_inquiry
+Can you tell me the exact dimensions of this item?,product_inquiry
+whats the delivery time for metro cities,shipping_info
+Why does my statement show the transaction in a different currency,billing_inquiry
+Can you confirm if my payment actually went through on your end?,billing_inquiry
+Can you tell me if referral rewards expire after a certain time,promotions
+Can you escalate this to whoever handles complaints of this nature,human_handoff
+Can you cancel my order if I mistakenly selected the wrong payment plan,cancel_order
+How long does a refund take to process?,refund
+cant find my invoice anywhere on the app,billing_inquiry
+"Is there a way to cancel recurring orders permanently, not just once",cancel_order
+My order confirmation came through but there's no tracking link yet,order_tracking
+Why was my refund request denied without any reason given?,refund
+My subscription was charged after I cancelled it,billing_inquiry
+Can you cancel my order even though it says already packed?,cancel_order
+is there a way to register through the app instead of website,account_creation
+I want to create an account,account_creation
+can i cancel if the order status already says shipped,cancel_order
+Can you cancel one unit from an order with multiple quantities,cancel_order
+is registration instant or does it need approval,account_creation
+Can you connect me with someone who can make an exception here,human_handoff
+"I keep getting an error saying the username is taken, any suggestions?",account_creation
+Why was my refund split into multiple smaller amounts instead of one transaction,refund
+I need a live agent since I've already tried every automated option available,human_handoff
+referral link se kya milta hai,promotions
+Why was there a delay between payment and invoice generation,billing_inquiry
+"Hello, I need to ask something",greeting
+Do you have any Sony headphones?,product_inquiry
+Can you check if weather conditions are affecting my delivery region,order_tracking
+There's a small unexplained fee added to my final bill,billing_inquiry
+Can I have my order delivered to a friend's address instead of mine?,shipping_info
+My delivery partner's tracking page shows an error for my order ID,order_tracking
+"trying to make an account for my shop, whats required",account_creation
+my old email bounced back the recovery link,account_recovery
+"Hi, what are your support hours?",greeting
+"There's a duplicate charge on my statement, please help",billing_inquiry
+is same day delivery status different from standard tracking,order_tracking
+Delivery status,order_tracking
+"Hey, hope I'm not messaging too late",greeting
+Can you confirm the maximum weight capacity this product can handle,product_inquiry
+Does your shipping cover installation for large appliances?,shipping_info
+"Hey, thanks for the quick reply earlier",greeting
+is delivery slower during sale season,shipping_info
+"Hi, glad to finally get through to someone",greeting
+Where's my receipt?,billing_inquiry
+do i need to fill in payment details while registering,account_creation
+"I think I typed my email wrong while signing up, so I can't recover it",account_recovery
+can i get refund credited to a different card than i paid with,refund
+"Hi, thanks for setting up this chat option",greeting
+"I've waited long enough, can you escalate the shipment check?",order_tracking
+"Hey, appreciate you responding so fast",greeting
+I need to know if opened packaging disqualifies me from a full refund,refund
+Can support verify if this refund request duplicates one I already filed,refund
+is the courier even moving my package,order_tracking
+Are there any hidden offers I might be missing on the homepage?,promotions
+My refund request keeps getting rejected without explanation,refund
+Do you offer birthday discounts for registered users?,promotions
+is there a cutoff day before which express doesnt apply,shipping_info
+Can you verify if today's public holiday is delaying my shipment,order_tracking
+Can shipping charges be refunded if delivery is significantly delayed,shipping_info
+i think my account was hacked last night,account_recovery
+Can you check if the courier attempted delivery while I was out,order_tracking
+I want to cancel due to a price drop I saw after ordering,cancel_order
+Update the payment method on file,account_management
+Is there an offer for bundling a warranty extension with a promotional purchase,promotions
+Please guide me through the registration process,account_creation
+Is there an option for delivery personnel to wait a few extra minutes if I'm running late,shipping_info
+stop shippin my order,cancel_order
+Can you cancel my order if I already contacted the courier?,cancel_order
+What's the price of this item?,product_inquiry
+Can you cancel my order given the manufacturer just issued a safety notice,cancel_order
+can u explain this random fee added,billing_inquiry
+"I changed my mind, please cancel it",cancel_order
+"account setup taking forever, is this normal",account_creation
+Is this suitable for professional certification or just casual training,product_inquiry
+can you help me set a nickname for my saved address,account_management
+wrong charge on my card,billing_inquiry
+Can you tell me if this supports voice control integration,product_inquiry
+How do I know if my registration went through successfully?,account_creation
+parcel not recieved,order_tracking
+Good afternoon,greeting
+Is this suitable for professional use or just casual?,product_inquiry
+Is same-day delivery available in my area?,shipping_info
+how many steps are involved in creating an account,account_creation
+Package location,order_tracking
+Can you cancel my order and apply the refund to a different order instead,cancel_order
+Can you track ORD1052 for me?,order_tracking
+Do you offer a lite shipping option for budget-conscious customers,shipping_info
+Can support confirm whether my billing cycle changed recently,billing_inquiry
+I want to cancel just one item from a multi-item order,cancel_order
+help me set up my first account please,account_creation
+Why does my invoice PDF differ from the summary shown in my order history,billing_inquiry
+Do returning customers get better deals than new sign-ups?,promotions
+promo code available,promotions
+Is there an option to pick up my order instead of having it delivered?,shipping_info
+Payment shows as pending for two days now,billing_inquiry
+Can a support agent walk me through recovery over a call,account_recovery
+Can you confirm if signature is required upon delivery for my order,order_tracking
+Is this suitable for extreme cold climates specifically,product_inquiry
+Is delivery cost different for cash versus card payments,shipping_info
+"Hello, I'll keep this short, just have one question",greeting
+recieved wrong bill amount,billing_inquiry
+Can you connect me with a representative who handles VIP or priority accounts,human_handoff
+Can you arrange for someone to call me since typing this out is difficult,human_handoff
+I want to update my account's linked social causes for donation rounding,account_management
+is my data safe when i register here,account_creation
+Is there a chance the package got lost in transit?,order_tracking
+Can you confirm if a discount applies automatically at renewal without action needed,promotions
+Is there a discount for subscribing to the newsletter?,promotions
+trying to cancel but app shows no option,cancel_order
+I need this reviewed by a person who understands the technical side better,human_handoff
+Can you tell me if there's a way to earn bonus points during off-peak hours,promotions
+My tracking number works on your site but not the courier's own site,order_tracking
+Does signing up automatically subscribe me to a newsletter,account_creation
+I want to switch my account's associated store location,account_management
+My order's estimated delivery keeps resetting every time I check,order_tracking
+is dis product covered for accidental damage separately,product_inquiry
+sale going on?,promotions
+I need clarity on why my order is delayed beyond the promised window,order_tracking
+I'd like to set up a business account instead of a personal one,account_creation
+Is there a way to know in advance which items will be part of next month's sale,promotions
+Can support check if currency rounding caused the slight mismatch in my total,billing_inquiry
+Can you check if a promo code was applied correctly to my bill?,billing_inquiry
+package sposed to come today but nothing,order_tracking
+Can I get a refund even though the return window technically closed yesterday?,refund
+I need an explanation for a charge that appeared weeks after delivery,billing_inquiry
+Does shipping cost change based on package weight?,shipping_info
+getting locked out every time i enter password wrong twice,account_recovery
+Is this product safe for children to use?,product_inquiry
+colour options available,product_inquiry
+"Good evening, one quick thing before I log off",greeting
+"I'm being charged a fee I don't recognize, can you clarify it?",billing_inquiry
+I need this billing discrepancy resolved before my next payment cycle,billing_inquiry
+Is there a way to gift a discount code to a friend,promotions
+Can I get delivery confirmation via SMS instead of email?,shipping_info
+material quality kaisi hai,product_inquiry
+What laptops do you have in stock?,product_inquiry
+"card charged twice, refund the extra pls",billing_inquiry
+How can I update my notification preferences?,account_management
+My wallet balance was deducted without any order being placed,billing_inquiry
+Do you offer scheduled delivery for special occasions like birthdays?,shipping_info
+"Hello, I've never used this chat before, how does it work?",greeting
+is dis waterproof,product_inquiry
+I need this order cancelled before the warehouse processes it further,cancel_order
+Can cancellation be done through customer care if the app fails,cancel_order
+how do i change my communication preference to whatsapp only,account_management
+delivery boy didnt show up today at all,order_tracking
+"Hi, I was told to reach out here for support",greeting
+is dis suitable for gifting purposes,product_inquiry
+"Hey, first time using this chat",greeting
+Is there an escalation contact I can reach directly via email instead,human_handoff
+any special ofer for regular customers,promotions
+My account recovery email landed in a folder I don't check often,account_recovery
+Is there a way to view and edit my full profile history,account_management
+I paid using a gift card but was still charged the full amount,billing_inquiry
+loyalty points kaise use kre,promotions
+Can I recover using a previous transaction as proof of ownership,account_recovery
+Is there a special promotion tied to specific national holidays only,promotions
+I need to talk to someone who can actually help,human_handoff
+"trying to update my email verification, keeps failing",account_management
+Is there a way to request a callback within a specific time window,human_handoff
+Show Apple products,product_inquiry
+login isnt workin,account_recovery
+Do you offer carbon-neutral shipping options,shipping_info
+Is there a way to check historical discounts I've used before,promotions
+How do I cancel an order?,cancel_order
+Can this be used outdoors in rainy conditions?,product_inquiry
+my emi got debited twice this month,billing_inquiry
+"Good morning, hope you had a nice weekend",greeting
+"My daughter wants to make her own account, can minors sign up?",account_creation
+"I ordered twice by mistake, please cancel one of them",cancel_order
+Can support cancel bulk orders differently than single item orders,cancel_order
+Can you connect me with someone who reviews cases involving multiple failed attempts,human_handoff
+How do I deactivate my account?,account_management
+"I keep getting logged out automatically, is that a bug?",account_recovery
+Do you offer assisted registration over a phone call,account_creation
+Is there an offer for customers who complete their profile fully,promotions
+want to update my account photo to something more professional,account_management
+Check delivery of ORD1032,order_tracking
+want to create account specifically for tracking my gift order,account_creation
+Is there a way to verify my identity using a previous order number instead,account_recovery
+can dis be used by both adults and kids,product_inquiry
+Can you help me reduce the number of saved payment methods,account_management
+I need to know the fastest refund method available for urgent cases,refund
+any ofers rn,promotions
+Morning!,greeting
+wheres the delivery guy,order_tracking
+Can support confirm if seasonal sale items have different refund rules,refund
+transfer this chat to actual support staff,human_handoff
+Is this product part of a limited edition run,product_inquiry
+do yall deliver on sundays,shipping_info
+I want to cancel one bundle item but keep the rest of the combo,cancel_order
+My order status hasn't changed in three days straight,order_tracking
+My account recovery seems to require info from years ago I don't remember,account_recovery
+"I need a firm delivery date, not just an estimate range",order_tracking
+how 2 sign up,account_creation
+"Hey, hope this is the right chat for queries",greeting
+Is there a live agent option available specifically for account security issues,human_handoff
+Is there an offer for customers referring within the same household,promotions
+Having trouble signing in,account_recovery
+I need an update on ORD1047,order_tracking
+Can you check if returning without original tags still qualifies for refund,refund
+Can you tell me if there's a special promotion during your platform's anniversary week,promotions
+"My account may have been hacked, help me recover it",account_recovery
+"Hi there, quick question",greeting
+I want to talk to a human,human_handoff
+"Hey, is customer support free to use?",greeting
+Can you tell me if this discount applies automatically or needs a code,promotions
+I need this resolved before it affects my next scheduled payment,billing_inquiry
+I need to update my company details for a business account,account_management
+"Hi, not sure if I'm in the right place but I need help",greeting
+Can I merge two accounts?,account_management
+Can you tell me if points earned today are usable immediately,promotions
+how do i register if i dont have a permanent address yet,account_creation
+Can you help correct a spelling mistake in my saved address,account_management
+I need a human decision on this since automated rules seem too rigid here,human_handoff
+What's the status of ORD1068?,order_tracking
+Is there a way to speak with someone before this escalates further on my end,human_handoff
+Is there a way to check real customer usage duration before it needed repairs,product_inquiry
+Shipping cost?,shipping_info
+The color of the product is completely different from what I ordered,refund
+Can shipping be paused temporarily if I'm traveling,shipping_info
+how do i go about cancelling a placed order,cancel_order
+Can you confirm if there's a way to combine referral credit with a flash sale discount,promotions
+Steps to create a profile,account_creation
+"My previous recovery attempt was rejected, can I try again immediately",account_recovery
+Why does my refund amount not match the original discounted price I paid,refund
+"refund amount seems wrong, less than expected",refund
+can i register using a work phone number,account_creation
+"My account was deactivated, can it be reactivated?",account_recovery
+"want a quick account just to check prices, is that fine",account_creation
+can i register multiple family members under one email,account_creation
+rfund status pls,refund
+What's the seasonal offer right now?,promotions
+need to update recovery contact details urgently,account_management
+I need to correct a typo in my registered address,account_management
+I ordered something five days ago and there's no update,order_tracking
+What material is this made of?,product_inquiry
+How do loyalty points work?,promotions
+I want to know exactly which courier is handling my delivery,order_tracking
+is there a deadline today after which i cant cancel anymore,cancel_order
+Can you connect me to whoever is available in the next few minutes,human_handoff
+can i get delivery same day if i order early morning,shipping_info
+promo code nahi mil raha,promotions
+Track order number ORD1138,order_tracking
+can i get a revised invoice after applying a late discount,billing_inquiry
+any special pricing for repeat customers like me,promotions
+my corporate card was charged personal tax incorrectly,billing_inquiry
+Is there a difference in warranty coverage between regions for this product,product_inquiry
+"Hi, is this where I go for general questions?",greeting
+invoice missing items i actually ordered,billing_inquiry
+Can I get a sample before committing to a bulk order?,product_inquiry
+account access denied even after correct otp entry,account_recovery
+Do you have a referral bonus program?,promotions
+Is this available as part of a subscription-based replenishment service,product_inquiry
+"I need a human confirmation that this was actually fixed, not just marked resolved",human_handoff
+I see two charges for the same order on my bank statement,billing_inquiry
+Can you tell me the expected restock date if it's currently sold out,product_inquiry
+Can I update my info directly from the mobile app or only the website,account_management
+refral bonus kitna milta hai,promotions
+Is this compatible with solar charging accessories,product_inquiry
+Can you look up ORD1026?,order_tracking
+Can support verify if the refunded amount accounts for a coupon originally applied,refund
+is there a tutorial for new account setup,account_creation
+Is there a special rate for combining shipping across multiple promotions,promotions
+pls escalate to manager,human_handoff
+"Been locked out for two days now, this is urgent",account_recovery
+I want to return this item,refund
+Can you confirm if this promo excludes items already marked as best sellers,promotions
+I want to speak to a representative,human_handoff
+"Can I register using just a username and password, no email at all",account_creation
+Do you support registration through mobile OTP only?,account_creation
+Is there a discount for customers who switched from a competitor,promotions
+"Please cancel, the seller's response time made me lose confidence",cancel_order
+is my account permanently gone if i cant recover the email,account_recovery
+"Hey, I've got a couple of things to ask if that's okay",greeting
+"Hi, thanks for being available",greeting
+update card details,account_management
+Why did my bill increase mid-cycle without any plan change on my end,billing_inquiry
+What's the battery life on this?,product_inquiry
+Helo,greeting
+Laptop price,product_inquiry
+Update details,account_management
+I need refund confirmation in writing for my records,refund
+the app shows my package in a city i dont even live near,order_tracking
+agent chahiye abhi,human_handoff
+"My order status flipped from delivered back to in transit, that's odd",order_tracking
+Please track ORD1033 urgently,order_tracking
+There's a tracking number but it doesn't work on the courier's website,order_tracking
+want to sign up but the terms and conditions page won't open,account_creation
+Is this suitable for use in vehicles or strictly stationary settings,product_inquiry
+What are the current offers?,promotions
+Is there a discount for subscribing to auto-replenishment orders,promotions
+"The reset password link says it has expired, can you send a new one?",account_recovery
+is it possible to cancel after cash on delivery was selected,cancel_order
+Can you tell me if there's a way to redeem points for faster shipping instead of discounts,promotions
+Can you tell me if there's a way to earn double points during weekends,promotions
+Is this product covered under manufacturer recall history I should know about,product_inquiry
+How do I update my profile picture?,account_management
+"Hi, ready when you are",greeting
+Please escalate this to a manager,human_handoff
+I need to update my industry type for a business account,account_management
+What are the product specifications?,product_inquiry
+Is there a live chat queue specifically for repeat unresolved issues,human_handoff
+Can I see a video demo of how this works?,product_inquiry
+"I found the same product cheaper somewhere else, please cancel mine",cancel_order
+Tell me about Printer,product_inquiry
+discount code?,promotions
+"My package tracking updated at 3am, does delivery happen overnight",order_tracking
+connect 2 human asap,human_handoff
+How much time do I have before an order becomes uncancellable?,cancel_order
+"Hi, been a while since I last used this chat",greeting
+"Hey, sorry to jump straight in but I'm in a bit of a hurry",greeting
+can you update my contact number for me,account_management
+i want to file a complaint with an actual representative,human_handoff
+trying to create account but browser keeps crashing,account_creation
+"trying to cancel a preorder, is that possible",cancel_order
+Do you have a coupon code?,promotions
+Do you deliver on Sundays in metro cities?,shipping_info
+product specs?,product_inquiry
+"I already have an account on your app, do I need a separate one for the website?",account_creation
+Track ORD1118 for me please,order_tracking
+What happens if I'm not home during delivery?,shipping_info
+how fast can u ship to my city,shipping_info
+Can you get someone to double check this before closing the ticket,human_handoff
+change delivery adress plz,account_management
+Is this handmade or machine manufactured?,product_inquiry
+Can a real agent walk me through the next steps instead of the bot,human_handoff
+Do you provide expedited customs clearance for urgent international orders,shipping_info
+Are there any freebies included with purchases over a certain amount?,promotions
+how 2 get refund for defective item,refund
+Can support check if the return pickup was scheduled correctly,refund
+want to cancel my monthly subscription order permanently,cancel_order
+"Hey, mind if I ask something unrelated to my last chat?",greeting
+How soon can I start using the account after registering?,account_creation
+"trying to edit my birthday, entered it wrong initially",account_management
+need to remove old address,account_management
+"Money deducted from my account twice for one order, please refund the extra",billing_inquiry
+Why does the refund tracker show a different timeline than promised,refund
+I need this refund matter closed with a final confirmation email,refund
+"I placed the order under the wrong account, please cancel it",cancel_order
+"This isn't what I ordered, I'd like a refund",refund
+I need this refund processed before my card statement closes,refund
+"Good morning, coffee hasn't kicked in yet but I have a question lol",greeting
+Is there a way to track delivery in real time before I even order?,shipping_info
+I want to become a registered user,account_creation
+How long does account creation take?,account_creation
+My auto-renewal charged me despite turning off auto-pay,billing_inquiry
+Can you send me a new password?,account_recovery
+Is there a discount tied to completing a certain number of orders per year,promotions
+Can you confirm the exact resolution or output specifications for this device,product_inquiry
+Why was I charged shipping when my order qualified for free delivery?,billing_inquiry
+ORD1072 tracking info,order_tracking
+I need to update account settings before transferring ownership to someone else,account_management
+Can delivery be rescheduled if I miss it?,shipping_info
+my order has been in transit for way longer than usual,order_tracking
+Is there a way to see photographic proof of delivery,order_tracking
+I need to recover an account created years ago with outdated details,account_recovery
+Trying to log in from a new country and it's blocking me,account_recovery
+Can I cancel an order paid through a linked wallet balance,cancel_order
+"Please cancel this order, I want to consolidate purchases into one shipment",cancel_order
+"Need to fix my account info, some of it is outdated",account_management
+I need this handled by someone outside of the standard tier one support,human_handoff
+Can I register on behalf of my parents who aren't tech savvy?,account_creation
+speak to rep,human_handoff
+Is there a wishlist notification for when items go on sale?,promotions
+Can I export a summary of all my saved account information,account_management
+"I need this issue reviewed by an actual human, not the automated flow",human_handoff
+I want to update account settings related to accessibility features,account_management
+How do I know if my order actually left the seller's warehouse?,order_tracking
+Is there a minimum cart value required to use this discount?,promotions
+I need this passed along to someone who can actually authorize a solution,human_handoff
+Can I track my refund the same way I track a delivery?,refund
+"the recovery process wants a photo id, is that mandatory",account_recovery
+I need help understanding why my invoice total excludes the discount shown at checkout,billing_inquiry
+Want to join your platform,account_creation
+"Hi, I appreciate any help you can give me",greeting
+Is there an offer for customers who complete a satisfaction survey,promotions
+"please cancel my bulk order, requirements changed",cancel_order
+"Hi, hoping to sort this out before the weekend starts",greeting
+Can you check if delivery was attempted at the wrong building,order_tracking
+Do you offer free shipping?,shipping_info
+is there a dedicated line for urgent issues with real agents,human_handoff
+y was i charged extra,billing_inquiry
+can i get a demo before purchasing dis in bulk,product_inquiry
+Is there a lighter version of this same product?,product_inquiry
+I think there's a typo in my registered email causing recovery failures,account_recovery
+delivary status update pls,order_tracking
+Can you confirm if military or veteran discounts are offered here,promotions
+Can I sign up using my phone number?,account_creation
+Can I cancel through email instead of the app or website,cancel_order
+Can you get a real person to confirm this ticket number is valid,human_handoff
+Does this come with a trial period before purchase commitment?,product_inquiry
+"I tried registering three times, is something broken?",account_creation
+payment says successful on my end but order shows unpaid,billing_inquiry
+"i think i'm permanently locked out, is there any hope of recovery",account_recovery
+Does shipping speed vary depending on the product category?,shipping_info
+order status not clear on the app,order_tracking
+Can you check if the refunded amount was sent to a joint account correctly,refund
+"please help me cancel, i clicked buy by accident",cancel_order
+I need to update which family members have order visibility,account_management
+Please give me an update on ORD1119,order_tracking
+Can you confirm if this product line supports trade-in for an upgrade,product_inquiry
+I need to understand why installment amounts vary each month,billing_inquiry
+I need a copy of my bill,billing_inquiry
+Does this fit standard-sized furniture or is it custom?,product_inquiry
+Does it come with accessories?,product_inquiry
+Can I use a referral code even if I already have an account?,promotions
+need to make new acc,account_creation
+How do I know which sign-up method is fastest,account_creation
+"refund request shows pending for way too long, please check",refund
+i changed my email provider and lost the recovery access,account_recovery
+Can I request delivery outside standard business hours,shipping_info
+"Hello, thank you for your time today",greeting
+Can I customize the size or color before ordering?,product_inquiry
+Do you offer delivery tracking integration with smart home assistants,shipping_info
+"Hi, are you a bot or a real person?",greeting
+Please stop giving me automated replies and connect me to staff,human_handoff
+I want to update my billing address,account_management
+Can I get partial refund for a partially damaged shipment?,refund
+Can billing support confirm if my account has any pending dues,billing_inquiry
+Please cancel my order since it's a duplicate of an existing subscription,cancel_order
+whats the price,product_inquiry
+My order tracking has three different statuses shown across pages,order_tracking
+can i use a nickname instead of my real name to sign up,account_creation
+I need to update my profile since I recently changed jobs,account_management
+Why was I billed before my order even shipped,billing_inquiry
+Can you confirm the exact processor or engine specifications for this,product_inquiry
+"I need a human perspective on this, not a scripted response",human_handoff
+Can you check if the refunded amount accounts for currency conversion correctly,refund
+want to update my profile bio if that's a feature,account_management
+The estimated delivery date keeps getting pushed further away,order_tracking
+"is my package lost, no updates in 4 days",order_tracking
+Where's order ORD1091 right now?,order_tracking
+talk to agent,human_handoff
+"Please cancel my order, a family member already has this exact item",cancel_order
+"Good morning, hope you can help me out",greeting
+"This is frustrating, I just need to talk to a real person now",human_handoff
+Can I have multiple shipping addresses saved at once?,account_management
+can i cancel and place a new order with corrections instead,cancel_order
+"Good evening, apologies for messaging so late at night",greeting
+my account switched language settings and now i cant find login option,account_recovery
+Can you confirm if this discount is available during the trial period of a subscription,promotions
+Does this product ship with a charger included?,product_inquiry
+Is there a way to request a specific batch or manufacturing date,product_inquiry
+Is there an option to speak with the same agent from my previous conversation,human_handoff
+Can support check if my company's purchase order number was linked correctly to this bill,billing_inquiry
+Track my order ORD1145 please,order_tracking
+"Hi, thanks for making this so easy to reach out",greeting
+Why does my refund status say 'under review' for longer than usual,refund
+Please cancel this order urgently before it leaves the warehouse,cancel_order
+"Hi, how are you today?",greeting
+I need to speak with a manager about a serious complaint,human_handoff
+want to switch my account to a different country region,account_management
+Can I update the account nickname shown to friends if we're connected,account_management
+How long does account recovery usually take,account_recovery
+"they said refund processed 5 days ago, still not recieved",refund
+Hi,greeting
+Can I create an account while my order is still in the cart,account_creation
+Is there a special rate during off-season for products typically bought seasonally,promotions
+how do i manage which apps have access to my account,account_management
+Is it possible to cancel and get an even faster refund via UPI,cancel_order
+Can I get written confirmation once the cancellation is complete,cancel_order
+refund plz,refund
+Can you confirm if a manual billing adjustment reflects immediately or after a cycle,billing_inquiry
+Can you tell me if there's a special rate for combining multiple product categories,promotions
+Is there a way to verify authenticity using a serial number,product_inquiry
+What's the difference between the standard and pro version?,product_inquiry
+trying to sign up but the otp never arrives,account_creation
+want to change my registered address to my new apartment,account_management
+can you push the courier for an update,order_tracking
+Why does my return show received but the refund hasn't been triggered,refund
+Please help me reset everything since I forgot all my login info,account_recovery
+"Hello, can someone assist me?",greeting
+I need a GST invoice for my order,billing_inquiry
+Can support verify if the refund policy differs for marketplace sellers versus direct sales,refund
+i've been patient but this really needs a human now,human_handoff
+Order status ORD1080,order_tracking
+I need a human to verify this wasn't already resolved incorrectly before,human_handoff
+Does this product have any reviews?,product_inquiry
+Locate the package for ORD1022,order_tracking
+"please cancel, i no longer want to proceed with this purchase",cancel_order
+whats the standard delivery time within the same state,shipping_info
+"Hi, been trying to reach support for a while now",greeting
+Can you tell me if this requires a firmware update before first use,product_inquiry
+Can you confirm the exact dimensions when the product is folded versus unfolded,product_inquiry
+reset pass now,account_recovery
+lost access after switching to a new laptop entirely,account_recovery
+I need to recover my account but I no longer have my old phone number,account_recovery
+can i choose my own username or is it auto generated,account_creation
+is username separate from email during signup,account_creation
+Is there a support number specific to delayed shipments,order_tracking
+Is there a dedicated escalation path for orders delayed past a week,order_tracking
+Is there a way to merge loyalty points from two old accounts,account_management
+Do you provide shipping updates in regional languages,shipping_info
+is dis product certified safe,product_inquiry
+Can I create an account without a credit card?,account_creation
+Is ORD1015 shipped?,order_tracking
+Please stop the shipment,cancel_order
+I need a human agent to confirm my complaint was logged correctly,human_handoff
+Hey there,greeting
+Is store credit the only refund option or can I get cash back?,refund
+Track and confirm ORD1120,order_tracking
+"Hey, I appreciate the support team's effort",greeting
+The amount charged doesn't match what I was quoted,billing_inquiry
+I need clarification on why my refund was split into two transactions,refund
+Can you confirm if promo codes shared by friends are tracked back to them,promotions
+Do you ship to rural areas?,shipping_info
+What's up,greeting
+invoice not recieved yet,billing_inquiry
+Do you provide multilingual delivery instructions for international couriers,shipping_info
+"Hey, I keep trying to register but the form isn't submitting, can you help?",account_creation
+Is there a discount for opting into digital-only receipts and invoices,promotions
+Does this work without an internet connection?,product_inquiry
+Hey,greeting
+Do you have festive season deals right now?,promotions
+"Hi, thanks for existing, this chat is really convenient",greeting
+Do you ship internationally?,shipping_info
+can u check refund status for my last return,refund
+Can you cancel my order and hold the refund as store credit instead,cancel_order
+"billing cycle seems off, charged early this time",billing_inquiry
+do you deliver bulky items like mattresses to upper floors,shipping_info
+"The seller refuses to accept my return, can you help?",refund
+"Cancel my order, the estimated delivery is too far out for me",cancel_order
+is there a delivery tracking app separate from yours,shipping_info
+"Hi, thank you for connecting with me",greeting
+Is there a quieter operating mode available for this appliance,product_inquiry
+Can you check with the courier why there's a delay?,order_tracking
+want my money back,refund
+Can I get info on the Xiaomi smartwatch,product_inquiry
+"Hey, thanks in advance for your help",greeting
+Why does the invoice PDF not match the numbers shown in-app,billing_inquiry
+does dis come with free accessories,product_inquiry
+Is this covered under an extended warranty option?,product_inquiry
+"Can you confirm a real person, not a script, generated this response",human_handoff
+Why was only the product refunded but not the taxes paid,refund
+Is this compatible with adapters from older generations of the same brand,product_inquiry
+Do you use drones or any automated delivery methods in select cities,shipping_info
+Can you initiate a refund for my last order?,refund
+"my account recovery request was denied, why",account_recovery
+Can I get a full refund?,refund
+Can I request delivery split between morning and evening based on item type,shipping_info
+Is this compatible with my phone model?,product_inquiry
+chasing this delivery for a while now,order_tracking
+Wheres my order at,order_tracking
+"The item expired before I even received it, I want a refund",refund
+I need this refund escalated since it's been well past the promised timeline,refund
+Please put me through to a live agent,human_handoff
+I want to create a family account for shared use,account_creation
+any ofer on first purchase,promotions
+"Hi, I need some help please",greeting
+I want to cancel because I misread the product description,cancel_order
+Can I recover my account using just my phone number,account_recovery
+Details on the Sony camera,product_inquiry
+cancel plz asap,cancel_order
+cancl my recent purchse,cancel_order
+otp not comin thru,account_recovery
+Is there a cancellation fee if I cancel now?,cancel_order
+What certifications does this product have?,product_inquiry
+Hey! Hope you're doing well,greeting
+Is there a discount available specifically for app-only purchases,promotions
+cant get in my acount,account_recovery
+Get me a customer service representative,human_handoff
+wats the difference between dis and the pro version,product_inquiry
+Can you tell me where my package currently is?,order_tracking
+My old recovery email belongs to an employer I no longer work for,account_recovery
+Why does my invoice show tax twice for the same item,billing_inquiry
+Is cancellation instant if I haven't received any shipping confirmation yet,cancel_order
+Is there a way to get a personalized recommendation between similar models,product_inquiry
+can you check if my discount was applied in the final bill,billing_inquiry
+Can you verify if a chargeback I filed has been resolved,billing_inquiry
+Is there a way to change delivery instructions after dispatch,order_tracking
+Change address,account_management
+Information about External Hard Drive,product_inquiry
+Can support confirm if partial returns qualify for full shipping refund too,refund
+I need this refund resolved before my credit card statement generates,refund
+My parcel is late,order_tracking
+I need to cancel because the item conflicts with something else I already own,cancel_order
+Delivery time?,shipping_info
+Can you tell me if this promo is region-locked or available nationwide,promotions
+"new here, how to create login",account_creation
+Order ORD1143 tracking,order_tracking
+is dis suitable for daily use,product_inquiry
+G'day,greeting
+Hello support team,greeting
+the app says my account doesnt exist anymore,account_recovery
+Bluetooth speaker details,product_inquiry
+I need to cancel my purchase,cancel_order
+is there a way to bulk update multiple fields at once,account_management
+I need to switch my account from personal to business,account_management
+Can I change my security questions?,account_management
+"Hey, is there a way to save this chat for later reference",greeting
+colr options for dis product,product_inquiry
+I changed my phone number and now OTP isn't reaching me for login,account_recovery
+"Please cancel my order, I no longer have the money to pay for it",cancel_order
+can i talk to someone senior,human_handoff
+whats causing the delay on my shipment,order_tracking
+"i need urgent help, my business account is locked and i have orders pending",account_recovery
+can you cross check this charge with your payment records,billing_inquiry
+My account got flagged for suspicious activity and now I can't log in,account_recovery
+What's the weight of this item?,product_inquiry
+is there a way to bypass the bot entirely,human_handoff
+refund policy says 7 days but its been 2 weeks already,refund
+Can recovery be done through the mobile app if the website isn't working,account_recovery
+"Is there a discount available for customers who refer businesses, not just individuals",promotions
+"returned item, wheres my refund",refund
+Is this compatible with third-party accessories or only branded ones,product_inquiry
+"I already sent the item back, refund not showing yet",refund
+"Trying to sign up but it says my email is invalid, what should I do?",account_creation
+"Good afternoon, thanks for taking my message",greeting
+Why does the invoice number not match the order confirmation number,billing_inquiry
+My order tracking says 'arrived at facility' with no further movement,order_tracking
+I need to cancel because I'm relocating before it arrives,cancel_order
+Can this be gift wrapped directly during checkout?,product_inquiry
+is dis available in xl size,product_inquiry
+can i preorder dis before it officially launches,product_inquiry
+Can a real person confirm whether this was resolved correctly,human_handoff
+I need to cancel an order placed under a family member's account,cancel_order
+Is there a discount specifically for customers using accessibility features on the app,promotions
+Do you offer weekend-only delivery slots for working professionals,shipping_info
+I need to cancel due to a scheduling conflict with the delivery window,cancel_order
+pymnt failed but money gone,billing_inquiry
+I'm trying to register but don't know how,account_creation
+Can you confirm if seasonal clearance discounts stack with loyalty tier benefits,promotions
+Can I cancel and get an instant refund instead of waiting?,cancel_order
+want money bak asap,refund
+I'd rather explain this over a call with an actual agent,human_handoff
+Can support verify if store credit refunds have an expiry date,refund
+Is there a loyalty program I should sign up for separately?,promotions
+track my shipment now,order_tracking
+"I want to return this because it's the wrong size, not a defect",refund
+"I want to switch my order for a different color instead of cancelling, is that easier?",cancel_order
+shiping options available,shipping_info
+Does buying this qualify me for any bundle discount?,product_inquiry
+"Hi, apologies if this isn't the right department",greeting
+can you help me remove duplicate addresses from my profile,account_management
+"Hello, I'll try not to take too much of your time",greeting
+How do I export my account data before closing it?,account_management
+double charged pls fix,billing_inquiry
+Can I choose a specific delivery time slot?,shipping_info
+I need a human agent to acknowledge this issue exists before anything else,human_handoff
+Why does my refund status show 'initiated' but no money received yet,refund
+"Hey, got a minute?",greeting
+Is there a way to cancel and immediately reorder with corrected details,cancel_order
+Can delivery be coordinated with building security for gated societies,shipping_info
+Can I set a maximum wait time after which delivery is automatically rescheduled,shipping_info
+"Good evening, I need assistance",greeting
+Is there an option to have the courier leave it with a neighbor,order_tracking
+I need someone with decision-making authority to look at this,human_handoff
+How do I link my existing loyalty number while creating a new account?,account_creation
+Is there a way to reroute my package to a nearby pickup point instead,order_tracking
+"Please cancel, I no longer trust the seller after reading reviews",cancel_order
+the last update on my order was two days ago at a sorting facility,order_tracking
+"Hey, thanks for getting back to me",greeting
+size chart available?,product_inquiry
+want to know if signup requires a subscription,account_creation
+I need to escalate since the refund promised by chat support hasn't arrived,refund
+"Someone said I need an invite code to register, is that true?",account_creation
+"I entered the wrong date of birth while signing up, can it be corrected?",account_creation
+wats the specs on this,product_inquiry
+"They sent me a used product instead of new, refund please",refund
+"I need this invoice broken down item by item, not as a lump sum",billing_inquiry
+the app logged me out and wont let me back in since update,account_recovery
+Can delivery personnel call before arriving?,shipping_info
+want to cancel this specific item but keep the rest of my cart,cancel_order
+wen will my order reach if i buy today,shipping_info
+Can you confirm if returning a bundled item affects the refund for the rest of the set,refund
+Is there an option to escalate silently without restarting the whole explanation,human_handoff
+I keep entering the correct password but it says invalid,account_recovery
+international shiping available?,shipping_info
+Can you get a callback scheduled for tomorrow morning specifically,human_handoff
+Check order ORD1131,order_tracking
+Can you confirm if taxes are recalculated after applying a discount code,billing_inquiry
+Getting an 'invalid credentials' error even though I'm sure it's correct,account_recovery
+shipping cost varies by weight?,shipping_info
+Is there an option for delivery with real-time GPS tracking of the driver,shipping_info
+whats the average lifespan of dis product with regular use,product_inquiry
+Status of ORD1046,order_tracking
+return this item asap,refund
+"I returned the item, when will I get my money back?",refund
+I haven't received my order,order_tracking
+Can I change which devices remain logged in permanently,account_management
+need update on my parcel asap,order_tracking
+refund not recieved yet,refund
+Cant login,account_recovery
+I want an explanation for why delivery estimates changed twice already,order_tracking
+can i get extra discount for reviewing my last purchase,promotions
+Tell me about Samsung Smartphone,product_inquiry
+I set up a new password but it reverted back to the old one somehow,account_recovery
+Can you tell me if this product is available for pre-order,product_inquiry
+How does shipping work for oversized items like furniture?,shipping_info
+Is there a warranty card included?,product_inquiry
+Tell me about Dell Laptop,product_inquiry
+Do you charge extra for delivery to gated communities with strict entry rules,shipping_info
+Is there additional cost for delivery above a certain floor in apartments without elevators,shipping_info
+I need to cancel because the delivery date changed drastically,cancel_order
+"Hello, hope you had a relaxing weekend",greeting
+Can you tell me the average customer rating for this specific variant,product_inquiry
+"Forgot both my username and password, what now?",account_recovery
+Is there a bonus for referring more than five friends,promotions
+can i set different addresses for billing and shipping,account_management
+How do I remove a saved address I no longer use?,account_management
+Can I upgrade my shipping speed after placing the order?,shipping_info
+Can you check if my invoice reflects the correct applied discount,billing_inquiry
+How do I add a family member as an authorized user on my account?,account_management
+can u pls cancel this for me,cancel_order
+"waiting since morning, wheres the package",order_tracking
+What's the recommended age range for this product?,product_inquiry
+Can you confirm the exact origin country of manufacturing for this item,product_inquiry
+any exclusive deal for today only,promotions
+Can support cancel if the checkout applied the wrong regional pricing,cancel_order
+I want to switch my two factor method since I lost my old device,account_recovery
+My order says 'out for delivery' since morning but nothing has arrived,order_tracking
+is delivery available to my office address instead of home,shipping_info
+"product damaged, need refund",refund
+Is there a way to speed up account verification?,account_creation
+Is there a discount for customers who opt into beta testing new features,promotions
+Can billing confirm if auto-debit is active on my account currently,billing_inquiry
+Can support confirm whether a refund and a new charge cancel each other out,billing_inquiry
+Is there an offer for customers who abandoned their cart recently,promotions
+account shows banned but i never violated any rules,account_recovery
+need human help,human_handoff
+festivl sale details pls,promotions
+Where does ORD1079 currently stand?,order_tracking
+cancl my purchase,cancel_order
+can you walk me through account setup,account_creation
+"Good afternoon, hope this message finds you well",greeting
+need to update my profile since i changed my last name after marriage,account_management
+need to update my alternate contact number,account_management
+Is there a live chat option with an actual human available now?,human_handoff
+I want to cancel because customer reviews changed my mind,cancel_order
+"Can you confirm if this offer applies to renewals, not just new subscriptions",promotions
+"Hello, I appreciate you guys having live support",greeting
+Is there a way to import my details from another platform when registering?,account_creation
+"I've explained this three times, please get me a human",human_handoff
+is packaging included in the shipping cost or separate,shipping_info
+How reliable is your delivery during festival season rush?,shipping_info
+can you confirm the delivery address matches what i submitted,order_tracking
+Is there an option to request a human agent specifically for complex issues,human_handoff
+"Hi, how does this chat support work exactly?",greeting
+"My friend recommended this app, how do I make an account?",account_creation
+Can I sign up with Facebook instead of email?,account_creation
+I need help understanding a bundled charge on my invoice,billing_inquiry
+Why is my refund pending 'seller confirmation' for so long,refund
+Can you get someone from your quality team to review my case,human_handoff
+Any cashback offers available?,promotions
+Is shipping cost calculated before or after taxes are applied,shipping_info
+"payment pending since morning, whats wrong",billing_inquiry
+Can you connect me with a representative who can process manual exceptions,human_handoff
+Can you confirm if a refund can be redirected to a different order as credit,refund
+Is there an option to recover using my Aadhaar or ID proof,account_recovery
+"the replacement they sent is also defective, want refund instead now",refund
+Can support verify if a referral credit was properly reflected in this invoice,billing_inquiry
+Is there a way to combine international orders to save on customs fees,shipping_info
+Is there a chance the courier lost my package permanently,order_tracking
+forgot my login info completely,account_recovery
+Is there an exclusive discount for customers who leave detailed reviews,promotions
+Greetings,greeting
+Details on the JBL soundbar,product_inquiry
+"Good afternoon, thanks for the help in advance",greeting
+Please cancel my order since the estimated delivery is unrealistic,cancel_order
+Can I update my preferred payment currency mid-subscription,account_management
+want to cancel because i no longer trust the delivery timeline,cancel_order
+trying to change my account currency from USD to INR,account_management
+Is there a special discount tied to a specific payment wallet,promotions
+"Hey, quick one before I forget to ask",greeting
+need this cancelled today itself,cancel_order
+forgt password pls help,account_recovery
+how do i turn off location tracking on my account,account_management
+any discount on bulk purchase of dis,product_inquiry
+"I paid via cash on delivery, how does the refund work for that?",refund
+Has my package been dispatched?,order_tracking
+My spam folder doesn't have the reset email either,account_recovery
+getting an error code during login that i dont understand,account_recovery
+trying to change my email but it says already in use,account_management
+Can delivery windows be as narrow as a two-hour slot,shipping_info
+item was under warranty but they still denied my refund,refund
+Can you confirm if this includes a protective case in the box,product_inquiry
+Does the platform require a strong password at registration?,account_creation
+Can I sign up without providing a phone number?,account_creation
+need refund for the extra amount charged by mistake,billing_inquiry
+Can you tell me if delivery attempts are limited to a certain number,order_tracking
+Can I change my username more than once?,account_management
+I need help since my refund was sent to a closed bank account,refund
+Unable to sign in,account_recovery
+"Can you update the spelling of my name, it was auto-corrected wrong",account_management
+Is there a flat shipping rate regardless of order size?,shipping_info
+"I want to permanently delete all my saved data, not just deactivate",account_management
+need direct contact wit support team,human_handoff
+Do you offer discounts during festivals specific to my region?,promotions
+I want to cancel a preorder before the actual release date,cancel_order
+Is there an option to have delivery split by item priority within one order,shipping_info
+"can i get refund without returning the item, its too damaged to ship back",refund
+"Hey, are you guys open right now?",greeting
+Check ORD1164 status now,order_tracking
+can i use my points to reduce shipping cost instead,promotions
+Where has ORD1066 reached?,order_tracking
+Transfer me to support staff,human_handoff
+What are the shipping charges?,shipping_info
+Tell me about Laptop,product_inquiry
+ORD1112 status please,order_tracking
+Can you compare the features of these two products?,product_inquiry
+"Tracking number isn't updating, can you check manually?",order_tracking
+I need this refund investigated since the tracking shows the item was never picked up,refund
+"It's already past the promised delivery window, what's going on?",order_tracking
+is there a referral bonus for signing up,account_creation
+"Heyy, quick thing",greeting
+Can shipping costs be waived for first-time customers,shipping_info
+Can you remove my old email as a recovery option?,account_management
+"Hey, are you able to help with account stuff too?",greeting
+I tried cancelling myself but there was no option available,cancel_order
+Check on ORD1051 for me,order_tracking
+I need help since my return got rejected without a clear reason,refund
+"Can you get someone to explain this policy in plain terms, not the standard script",human_handoff
+Does this come in a larger size?,product_inquiry
+Can I sign up and immediately place an order without waiting for verification,account_creation
+I moved recently and need to update my address,account_management
+"It says my account is suspended, how do I recover it?",account_recovery
+Recovery keeps timing out exactly at the verification step,account_recovery
+Is this suitable for outdoor use?,product_inquiry
+Is there a minimum order for free shipping?,shipping_info
+Do you sell ASUS monitors?,product_inquiry
+"I lost access to the email linked to my account, what do I do now?",account_recovery
+What printers are currently available?,product_inquiry
+Do you provide an option for scheduled recurring deliveries,shipping_info
+I need to speak with someone who can actually check backend order details,human_handoff
+When will it arrive if I order today?,shipping_info
+disc code pls,promotions
+Is there an option to update multiple saved addresses at once in bulk,account_management
+how do i clean or maintain dis product,product_inquiry
+Can you connect me with someone who handled a similar case before,human_handoff
+order shows delivered but i got nothing,order_tracking
+"Hi, thanks for always being responsive",greeting
+"Hello, glad I don't have to wait on hold for this",greeting
+Can you confirm if I can choose the mode of refund myself,refund
+Laptop specifications,product_inquiry
+i need a callback from a real agent today,human_handoff
+Is there a way to leave delivery instructions for the courier?,shipping_info
+Can support verify and cancel if I provide my registered mobile number,cancel_order
+Can support confirm the exact refund amount before I proceed with the return,refund
+"My password manager has the wrong saved password now, how do I sync it",account_recovery
+Is there a kid-friendly version of this same product,product_inquiry
+Cancel this order for me,cancel_order
+Can support check if my refund is delayed due to a flagged transaction,refund
+refund shows completed but bank shows nothing,refund
+can i get escalated to your grievance team directly,human_handoff
+Is phone verification mandatory during signup?,account_creation
+Can I request delivery to a locker instead of my home?,shipping_info
+any combo ofers available rn,promotions
+Are there any offers exclusive to app users versus website?,promotions
+do remote areas get the same delivery guarantee as cities,shipping_info
+I need to sign up for the first time,account_creation
+Why does my account show the refund as 'failed' with no further explanation,refund
+can i change my account's privacy settings,account_management
+Hi team,greeting
+I've been waiting two weeks for my refund and still nothing,refund
+"The delivery guy called but I missed it, what happens next?",order_tracking
+my stuff still not here,order_tracking
+is it possible to have a joint billing address for two accounts,account_management
+Still waiting for my delivery,order_tracking
+Is there a way to be prioritized in the queue given how long this has taken,human_handoff
+"Hey, is there anyone from the team around?",greeting
+can you update my region so i see local pricing,account_management
+Can I request shipping insurance separately for valuable items,shipping_info
+Is this the latest version or an older model still being sold?,product_inquiry
+want to update payment info since my old card expired,account_management
+sale kab hai,promotions
+Is there an option to be connected with the last agent who assisted me,human_handoff
+is there a customer helpline for the courier directly,order_tracking
+Is there a student registration option with special perks?,account_creation
+My package apparently reached the local hub three days ago and hasn't moved since,order_tracking
+Hello,greeting
+"Order was placed for the wrong address, cancel it please",cancel_order
+how do i update my account without contacting support each time,account_management
+need 2 cancel my order,cancel_order
+Can you confirm if flash sale items are excluded from standard return policies,promotions
+I want a cancellation confirmation once it's processed,cancel_order
+What's the difference between a free account and a premium one at signup?,account_creation
+delivary time for my pincode,shipping_info
+do i get a confirmation after creating my account,account_creation
+"I think my package might be misrouted, can you check?",order_tracking
+can i return dis if it doesnt fit,product_inquiry
+does delivery cost more for cod orders,shipping_info
+"Hello, I was redirected here from your website",greeting
+Can you confirm if this coupon works across all product categories,promotions
+"I already made a purchase as a guest, can I convert that into an account now?",account_creation
+Can you tell me if this comes with a trial period for testing,product_inquiry
+I need to update my GST number for billing purposes,account_management
+"bot cant help, need person",human_handoff
+Can I combine multiple orders into a single shipment to save on cost?,shipping_info
+"password reset email goes into a loop, never actually resets",account_recovery
+Can I register with a work email instead of personal?,account_creation
+"I ordered the wrong item, can you cancel it?",cancel_order
+is there customer support during the signup process itself,account_creation
+"I'm being asked to verify via a document upload, is that normal for recovery",account_recovery
+Can cancellation happen automatically if payment isn't completed in time,cancel_order
+Can you confirm the exact delivery partner assigned to my order,order_tracking
+I want to know the average delay for orders in my pin code currently,order_tracking
+I was charged a late fee that doesn't seem accurate,billing_inquiry
+Can you send my invoice to a different email address?,billing_inquiry
+Do heavier packages get routed through a different logistics partner,shipping_info
+Is there a way to be notified the moment a wishlist item goes on sale,promotions
+Is there an ongoing sale?,promotions
+Can you tell me if there's a limited window each month for exclusive member deals,promotions
+I want to register using my Google account instead of email,account_creation
+is dis product ISO certified,product_inquiry
+Can two people share one account or do we each need to register separately?,account_creation
+"Hi, thanks for the warm welcome",greeting
+is there an option to register anonymously,account_creation
+Is there a discount for customers who consistently rate their delivery experience,promotions
+Can someone senior personally look into this matter for me,human_handoff
+can support intervene to cancel since the app is stuck,cancel_order
+Do you provide shipping cost estimates before I even add items to cart,shipping_info
+I want to link a second email as backup,account_management
+can i specify a delivery date in advance,shipping_info
+I want to remove my old saved card and add a new one,account_management
+need help disputing a charge that seems fraudulent,billing_inquiry
+The app crashes every time I try to enter my password,account_recovery
+Show Dell products,product_inquiry
+Can you check if my order got combined with someone else's shipment,order_tracking
+can i complete signup later if i start it now,account_creation
+What's your policy if a package is damaged during shipping?,shipping_info
+Why was I billed the full amount despite a partial refund being issued earlier,billing_inquiry
+need gst bill for office,billing_inquiry
+my order tracking says failed delivery attempt but nobody came,order_tracking
+Hello! Ready to chat whenever you are,greeting
+Are there any exclusive deals for premium or subscribed members?,promotions
+is live human support available 24/7 or only certain hours,human_handoff
+Can you check if my corporate billing account was mixed up with a personal one,billing_inquiry
+Track ORD1085,order_tracking
+Is next-day delivery guaranteed or just an estimate,shipping_info
+Can you help set reminders for me to update my address seasonally,account_management
+trying to cancel through customer care instead of the app,cancel_order
+"order placed in error, please remove it",cancel_order
+I need a live person,human_handoff
+Is there a callback option instead of chatting with a bot?,human_handoff
+"I need proof that my package is actually moving, not just sitting somewhere",order_tracking
+Is there a live agent available who can process exceptions manually,human_handoff
+Can support cancel my order if I'm unable to access the app right now,cancel_order
+how do i update my preferred language for support chats,account_management
+Can you tell me if there's a loyalty reward for consistent monthly purchases,promotions
+Where's my package for ORD1002?,order_tracking
+Can you check why my transaction failed?,billing_inquiry
+I need a human to confirm this wasn't a system error before I proceed,human_handoff
+i need to prove ownership of my account somehow,account_recovery
+"I want to change the name on my account, is that possible?",account_management
+want to cancel since i realized i have a similar product already,cancel_order
+Can you connect me with whoever is responsible for the delay to explain it personally,human_handoff
+I see the order marked 'delivered' but I never got anything,order_tracking
+"This has gone on too long, please get a person involved now",human_handoff
+Is there a way to skip the queue given how long this has taken,human_handoff
+Can you tell me the average time customers take before requesting a replacement,product_inquiry
+I forgot my login credentials,account_recovery
+Locked myself out after too many failed attempts,account_recovery
+Can you confirm if my order left the warehouse?,order_tracking
+Can support check if a courier delay is holding up my refund processing,refund
+Is there a way to cancel without triggering a bad seller review,cancel_order
+Can you get someone to personally follow up once this is resolved,human_handoff
+Can you tell me if there's a minimum wait time between using two coupons,promotions
+How to update account settings,account_management
+Is this product genuine?,product_inquiry
+How can I become a member?,account_creation
+My account recovery keeps asking about a security question I never set,account_recovery
+Is there an option for eco-friendly packaging?,shipping_info
+I want to review and update all permissions granted to third-party apps,account_management
+"The product was defective, please refund me",refund
+"Hi, I have about five minutes, is that enough time?",greeting
+"Hi, this is a bit random but I need some guidance",greeting
+What's the price of a Samsung smartphone?,product_inquiry
+Do you offer bulk order discounts?,promotions
+The password reset link isn't working,account_recovery
+Can you help me register?,account_creation
+Can support confirm if cancellation impacts any ongoing loyalty rewards,cancel_order
+How many days does the bank take after you process the refund?,refund
+chnge username pls,account_management
+Is there a way to combine a birthday discount with a seasonal sale,promotions
+I need someone to verify this manually rather than through automation,human_handoff
+"This issue is too complex for a bot, I need real assistance",human_handoff
+Do you deliver on weekends?,shipping_info
+Can support verify if this charge is linked to a subscription I forgot about,billing_inquiry
+"Hey, saw the chat option and thought I'd try it",greeting
+How do I become a customer here?,account_creation
+Is there an offer for customers celebrating an account anniversary,promotions
+"Hey there, been a customer for a while, small question today",greeting
+wana cancel now,cancel_order
+is delivery free above a certain amount always,shipping_info
+Can you check if my order's weight caused unusual routing,order_tracking
+can i see customer photos of dis product,product_inquiry
+"Hi, can we talk?",greeting
+Can billing errors from last month still be corrected now?,billing_inquiry
+how do i change my account's default currency,account_management
+How does this model compare to last year's version?,product_inquiry
+Cancel it,cancel_order
+How can I contact the delivery person directly?,order_tracking
+"trying to create account on mobile, page not loading properly",account_creation
+please cancel and dont charge my card for this,cancel_order
+how to edit my acount,account_management
+y is there an extra charge i dont understand,billing_inquiry
+I'd like to set up an account today,account_creation
+Is there a way to preview changes before saving them permanently,account_management
+how do i add a profile picture during signup,account_creation
+"My account got permanently banned by mistake, can you check",account_recovery
+How many accounts can one person have?,account_creation
+Hi again,greeting
+I need proof that my subscription was actually cancelled before this charge,billing_inquiry
+I'd like to close my account permanently,account_management
+Is it possible to speak with the same representative I talked to last time,human_handoff
+Can't remember which email I used to sign up,account_recovery
+"My biometric login stopped working, how do I fix it?",account_recovery
+Is registration free?,account_creation
+I want to register but I'm worried about getting spam calls afterward,account_creation
+What shipping method do you recommend for time-sensitive orders?,shipping_info
+Can you confirm the status of ORD1089?,order_tracking
+Can you tell me which city my package is currently in?,order_tracking
+"Hey, is there a queue right now or can we start?",greeting
+I forgot my username,account_recovery
+want to add my office address as a secondary shipping option,account_management
+"please cancel, dont want it anymore",cancel_order
+List the smartphones you sell,product_inquiry
+Can someone from the team call me back today?,human_handoff
+Please transfer this conversation to your human support team,human_handoff
+Good morning! Hope everything's going smoothly on your end,greeting
+wanna cancel my order asap,cancel_order
+Can you confirm cancellation doesn't affect my account standing,cancel_order
+Is there a discount if I pay through a specific bank card?,promotions
+Can you check if my refund is pending due to incomplete bank details,refund
+"my refund got rejected, y though",refund
+Show me the tracking for ORD1059,order_tracking
+Where's my stuff,order_tracking
+How fast is shipping,shipping_info
+I need a person to walk me through this since I'm not confident using the app,human_handoff
+Is there a discount for bundling insurance with a product purchase,promotions
+My order was supposed to arrive yesterday and I'm still waiting,order_tracking
+There's a mismatch between the amount debited and the order total shown,billing_inquiry
+I want to cancel this order and instead place it under a corporate account,cancel_order
+"The item smells like it's been used, I want a refund immediately",refund
+I need this refund prioritized since I've already been charged interest on my card,refund
+Can you confirm if this item can be returned after being used once,product_inquiry
+edit my adress,account_management
+Can you check if a subscription proration was calculated correctly,billing_inquiry
+Can I sign up with a temporary address and update it later,account_creation
+can you arrange a call with your support manager,human_handoff
+"Hey, can we get started?",greeting
+Can I temporarily pause my account instead of deleting it?,account_management
+"Hello, thanks for the prompt response",greeting
+Do you offer white-glove delivery for premium appliances,shipping_info
+Can you confirm if bulky item delivery includes curbside drop-off only,shipping_info
+The recovery flow asks for a code that was sent to an app I uninstalled,account_recovery
+Can I get an itemized invoice for my last purchase?,billing_inquiry
+"The item arrived damaged, I want a refund",refund
+Can you confirm if there's a cashback ceiling per transaction,promotions
+Can support cancel it manually if the app won't let me?,cancel_order
+change my phone no,account_management
+I can't log in,account_recovery
+can support manually correct a wrong billing amount,billing_inquiry
+"I paid extra for priority delivery, is that reflected in the current status?",order_tracking
+Cancel my recent order,cancel_order
+Can you verify if store credit refunds can later be converted to cash,refund
+how long is the wait for account approval,account_creation
+Is cancellation possible if the seller already printed the shipping label,cancel_order
+Is account creation different for corporate bulk buyers,account_creation
+Change my phone number please,account_management
+Printer price,product_inquiry
+can you cancel on my behalf since im traveling,cancel_order
+I need to update my email address,account_management
+trying every password i remember and none work,account_recovery
+Can you connect me with someone who has more authority to resolve this?,human_handoff
+Show me all Monitors,product_inquiry
+Is cancellation free or does it come with a processing charge,cancel_order
+Is delivery available through local partner stores in smaller towns,shipping_info
+I need an explanation for a charge appearing under an unfamiliar merchant name,billing_inquiry
+Is there a support ticket number I can use to track my recovery request,account_recovery
+I want to set up parental controls linked to my main account,account_management
+Can support confirm the refund timeline differs for international purchases,refund
+Can you connect me with someone who can override this automated decision,human_handoff
+"Hi, hoping you can point me in the right direction",greeting
+"Recovery form doesn't accept my current address as a match, why",account_recovery
+I need this matter handled outside of the standard automated ticketing system,human_handoff
+Why does my tracking page show a different address than mine?,order_tracking
+please just get me a real person already,human_handoff
+can i skip some steps in registration and complete later,account_creation
+Hiya,greeting
+Is this energy efficient compared to older models?,product_inquiry
+Why was my refund denied when the item clearly arrived defective,refund
+I want to switch my primary contact number to my spouse's,account_management
+I want written confirmation that a human reviewed my complaint,human_handoff
+how long does customs clearance usually add to delivery,shipping_info
+need invoice copy,billing_inquiry
+I need a human to look at the attachments I sent since the bot ignored them,human_handoff
+want to cancel due to delayed shipping,cancel_order
+Is there a live option to speak with someone in a language other than English,human_handoff
+order cancl kaise kare,cancel_order
+"cancel button not working, help",cancel_order
+How do I add a second address to my profile?,account_management
+Do you have any updates from the courier partner on the delay?,order_tracking
+How do I update my preferred delivery time slots?,account_management
+Connect me to an agent,human_handoff
+I need help since the refund tracker link in the email doesn't work,refund
+Is there a special discount for customers who switch from paper to digital billing,promotions
+Can I update my consent preferences for data sharing,account_management
+Can support check if the courier picked up my return item at all,refund
+is there a way to earn points faster,promotions
+whats included in the standard package for dis,product_inquiry
+The product doesn't match the pictures shown online at all,refund
+Locate my order ORD1048,order_tracking
+wheres my pakage,order_tracking
+Can you loop in a senior representative for this issue?,human_handoff
+Is express shipping available?,shipping_info
+Edit my personal information,account_management
+Do you have Dell laptops?,product_inquiry
+Do you have Samsung monitors?,product_inquiry
+Do you provide proof of shipment for insurance claims if something goes wrong,shipping_info
+Can shipping preferences be saved as defaults for all future orders,shipping_info
+"The captcha isn't loading on the signup page, what do I do?",account_creation
+"want to make profile fast, whats needed",account_creation
+Is there a way to request a specific time for a human agent to call me,human_handoff
+Hello there!,greeting
+Can you confirm whether a service charge is one-time or recurring,billing_inquiry
+trying to update everything at once before moving houses,account_management
+real agent plz,human_handoff
+They approved my refund but I haven't seen the money in my account,refund
+"Hi, thank you for your help earlier this week",greeting
+"please dont give me another bot response, i need real help",human_handoff
+how do i get started with an account here,account_creation
+Can you break down exactly what this total charge includes?,billing_inquiry
+status of my delivery pls,order_tracking
+need last three months of invoices for tax filing,billing_inquiry
+Is delivery available to hostel or dorm addresses?,shipping_info
+Can you connect me with support staff who speak my preferred language,human_handoff
+Can you confirm if refunds for gift purchases go to the buyer or recipient,refund
+Sup,greeting
+do you verify identity during account creation,account_creation
+whats your delivery success rate in tier 2 cities,shipping_info
+want refund since delivery took way longer than promised,refund
+Nobody delivered anything today even though the app said out for delivery,order_tracking
+"got wrong item, want rfund now",refund
+"Hello, thanks for your patience in advance",greeting
+Can you tell me if the courier updates tracking status in real time,order_tracking
+Is there an option to schedule automatic profile updates,account_management
+Specs for the ASUS gaming laptop please,product_inquiry
+is cod availble everywhere,shipping_info
+y is my order taking so long,order_tracking
+Can you check if my order is affected by regional courier strikes,order_tracking
+referal bonus details,promotions
+I want to cancel this order and use the funds toward a different item entirely,cancel_order
+Is this suitable for someone just starting out versus an expert user,product_inquiry
+Is there a limit on how many failed signup attempts are allowed,account_creation
+Show HP products,product_inquiry
+Why did my refund confirmation arrive but the money hasn't shown up,refund
+Is there an option for a video call with a support representative,human_handoff
+Can you verify if a service fee applies only to certain regions,billing_inquiry
+I need an explanation for a one-time setup fee that appeared unexpectedly,billing_inquiry
+Where is ORD1029?,order_tracking
+My login isn't working today,account_recovery
+my subscription is active but i still cant log in to use it,account_recovery
+Check the delivery status of ORD1023,order_tracking
+Is this available in other colors?,product_inquiry
+Is delivery available to islands or remote coastal areas,shipping_info
+Can I see more images of this product?,product_inquiry
+"My son placed this order without my permission, can we cancel it?",cancel_order
+how much is shiping to my area,shipping_info
+can delivery be made to a relative's house on my behalf,shipping_info
+"Please help, I've been trying to log in for an hour with no luck",account_recovery
+I need to know if my order is prioritized or in standard queue,order_tracking
+need proof of transaction for my records,billing_inquiry
+Is this product designed for left-handed users as well,product_inquiry
+I need help changing my account's associated warehouse pickup point,account_management
+"cant login on new phone, keeps saying wrong password",account_recovery
+can you confirm a real person will respond to this message,human_handoff
+"Hi, wanted to reach out about something small",greeting
+Do shipping costs vary based on the season or demand,shipping_info
+"Hey, need some help",greeting
+Is there a way to update account settings from a smartwatch app,account_management
+Can you assign a case manager to handle this personally,human_handoff
+how long is dis under warranty,product_inquiry
+Can you get someone senior to personally apologize and resolve this,human_handoff
+I need to cancel because the specifications don't match what I need,cancel_order
+Can you confirm if this discount applies to gift card purchases as well,promotions
+Can I get transferred to whoever manages escalations,human_handoff
+I'd like to speak with someone from your team directly,human_handoff
+Is there an option to have deliveries left at a designated safe spot,shipping_info
+is cash refund possible or only wallet credit,refund
+Can you help me set a default shipping address?,account_management
+"registering for the first time, any tips",account_creation
+Do you have any clearance sale items right now?,promotions
+Do you offer priority shipping specifically during health emergencies,shipping_info
+Change my registered email,account_management
+I keep getting 'network error' whenever I try to reset my password,account_recovery
+What's the noise level of this appliance?,product_inquiry
+Can you verify whether shipping charges are refundable for defective items,refund
+discount milega kya bulk order pe,promotions
+is there a countdown for when this offer ends,promotions
+"my saved address has an old pincode, need to fix it",account_management
+Is there a helpdesk specifically for registration issues,account_creation
+account shows active on one device and locked on another simultaneously,account_recovery
+Can you verify if the refund includes compensation for the delivery delay,refund
+Connect me with customer care,human_handoff
+"I live outside the city, will delivery take longer?",shipping_info
+I switched to a new laptop and lost my saved authentication app,account_recovery
+What info is mandatory versus optional during signup?,account_creation
+can i cancel one item without cancelling the whole order,cancel_order
+Can you connect me with someone from the technical team specifically,human_handoff
+Can I change my account language preference?,account_management
+Agent please,human_handoff
+What's the fastest delivery option?,shipping_info
+how do i change from monthly to yearly billing on my account,account_management
+Do you provide shipment updates through a dedicated tracking app rather than SMS,shipping_info
+How do I sign up?,account_creation
+Can I request delivery specifically avoiding weekends due to my schedule,shipping_info
+tracking says nothing new for days,order_tracking
+cancel dis order pls,cancel_order
+"I want to register for the newsletter without creating a full account, is that possible?",account_creation
+how long after cancelling will i see the refund,cancel_order
+"Hello, hoping today's query is a quick fix",greeting
+I want to cancel my subscription order,cancel_order
+can delivery be expedited for an extra fee after ordering,shipping_info
+Please check ORD1151,order_tracking
+What are the shipping options?,shipping_info
+material used in this,product_inquiry
+"My account got locked, please help",account_recovery
+Can you check server-side if there's an outage affecting logins today,account_recovery
+What benefits do I get immediately after creating an account?,account_creation
+stuck on the login page for the last 30 minutes,account_recovery
+transfer me plz to staff,human_handoff
+Is there a bulk packaging option for this item aimed at businesses,product_inquiry
+How does weather affect delivery timelines in your experience?,shipping_info
+Is there a way to preview how my public profile looks to others,account_management
+Is delivery affected during regional festivals or local holidays,shipping_info
+"Hey, hope you're having a smooth shift today",greeting
+"Please cancel, duplicate order was placed by accident",cancel_order
+Can you confirm if promotional pricing is locked in once added to cart,promotions
+want to cancel before payment is fully deducted,cancel_order
+"the security code sms is delayed by hours, is that normal",account_recovery
+Can you tell me if there's a discount tied to using a specific delivery method,promotions
+I need a refund on an incorrect invoice,billing_inquiry
+I want to return this product,refund
+"Hey, checking in with a question",greeting
+want full refund not partial,refund
+chk wer my order is,order_tracking
+What's the process to create an account?,account_creation
+can you confirm the cancellation was successful,cancel_order
+Do you have HP printers?,product_inquiry
+need bill copy asap,billing_inquiry
+Can support check if my billing history shows any unresolved disputes,billing_inquiry
+"I want an account just to track orders, nothing else, is that possible?",account_creation
+"The product stopped working after two days, I want a refund",refund
+My card was charged but I want to cancel before it ships,cancel_order
+"Hey, thanks for being patient with my questions",greeting
+What's the quickest way to get registered today?,account_creation
+"My account shows 'access denied', not sure why",account_recovery
+Can you tell me if replacement parts are sold separately,product_inquiry
+Is this product available with a matte or glossy finish option,product_inquiry
+cupon available?,promotions
+Do you provide separate delivery timelines for pre-owned or refurbished items,shipping_info
+Why does my refund status differ between the app and the email notification,refund
+"wanna join, how do i sign up",account_creation
+Is there a limit on how many times I can use the same coupon?,promotions
+Can someone manually verify where the package is right now?,order_tracking
+"I accidentally closed the tab mid-registration, do I need to start over?",account_creation
+Can you cancel and refund to the original payment method only,cancel_order
+Can support confirm if my refund includes the loyalty points originally used,refund
+can i change my account type from student to regular,account_management
+Can support confirm the courier hasn't misplaced my parcel,order_tracking
+Do you ship on public holidays?,shipping_info
+"the delivery estimate changed three times already, whats happening",order_tracking
+is account creation the same for app and website,account_creation
+I want to cancel since the seller's listed brand doesn't match what arrived in the confirmation email,cancel_order
+Cancel and refund my order,cancel_order
+Do you have a size chart?,product_inquiry
+Do you offer cash on delivery in all areas?,shipping_info
+Can I change my email if I no longer have access to the old one?,account_management
+"tried clearing cache and cookies, login still fails",account_recovery
+Can you connect me with a specialist for this particular product category,human_handoff
+is dis compatible wit older models,product_inquiry
+Check whether ORD1097 has shipped,order_tracking
+"I need a person, not a macro response, to address this specific complaint",human_handoff
+I need to understand why my refund got reversed after being initially approved,refund
+I want to update the emergency shipping contact on my profile,account_management
+"Please cancel, I no longer need this item",cancel_order
+Hello sir/madam,greeting
+need real human now,human_handoff
+Is there a way to prove my identity using facial recognition,account_recovery
+Can you confirm if this offer stacks with a first-time buyer discount,promotions
+Do you have Logitech keyboards?,product_inquiry
+I need clarification on why service tax appears separately from product tax,billing_inquiry
+Tell me about HP Laptop,product_inquiry
+How much does a Logitech mouse cost?,product_inquiry
+I need this issue routed to whoever last handled my account changes,human_handoff
+My refund hasn't been received yet,refund
+Cancel pls,cancel_order
+Is it possible to update account details via customer support call only,account_management
+"Hi, I'll get straight to the point",greeting
+"Hi, thank you for existing on a Sunday too",greeting
+want to set up an account before the sale starts,account_creation
+account recovery form isnt accepting my details,account_recovery
+is there a limit to how many addresses i can save,account_management
+I want to switch from browsing as guest to a full account,account_creation
+I need this escalated to whoever oversees customer satisfaction,human_handoff
+"Good afternoon, hoping you can sort out an issue for me",greeting
+Someone changed my password without my knowledge,account_recovery
+I want a refund,refund
+"Good afternoon, this is my first message of the day to you guys",greeting
+Can you verify if my order was loaded onto the delivery vehicle today,order_tracking
+My order tracking page just says 'pending' with nothing else,order_tracking
+Why does the app show a lower total than what my bank actually charged,billing_inquiry
+"trying to register through a QR code, is that supported",account_creation
+My delivery status hasn't synced between the app and website,order_tracking
+Can you tell me if my coupon code has expired?,promotions
+Can I choose a courier partner myself instead of the default one,shipping_info
+is there a phone number i can call for urgent account recovery,account_recovery
+need to update my company name on the business account,account_management
+There's an incorrect charge on my card,billing_inquiry
+wrong amount charged pls check,billing_inquiry
+I want to add a nickname alongside my legal name,account_management
+any cashback,promotions
+I've tried resetting my password three times and it still doesn't work,account_recovery
+Can you manually verify my identity using my order history instead,account_recovery
+"I want to set up a seller account, is the process different from a buyer account?",account_creation
+Can you tell me if this product line has any planned upgrades soon,product_inquiry
+"trying to sign up again after deleting old account, is that allowed",account_creation
+Can senior citizens avail any special discounts here?,promotions
+Can you confirm if this product has passed safety certification for my country,product_inquiry
+Modify profile please,account_management
+Can you tell me if my order has crossed customs yet,order_tracking
+"My recovery attempt got flagged as suspicious, why would that happen",account_recovery
+payment gateway showed error but amount got deducted,billing_inquiry
+Has ORD1077 left the warehouse?,order_tracking
+Can cancellation be processed if I already scheduled installation separately,cancel_order
+What's the current location of ORD1025?,order_tracking
+Can you check if my billing address mismatch caused a failed transaction,billing_inquiry
+Information about Gaming Keyboard,product_inquiry
+"Good morning team, hope all is well",greeting
+Can you connect me with someone who can check internal notes on my account,human_handoff
+kab tak chalega ye sale,promotions
+I want to cancel since better financing options appeared elsewhere,cancel_order
+What courier service do you use?,shipping_info
+Why was my refund amount adjusted without explanation,refund
+Is there a Lenovo laptop available?,product_inquiry
+I need to cancel because my company's approval for this purchase got revoked,cancel_order
+Can you confirm the exact fabric composition for this clothing item,product_inquiry
+price of dis item pls,product_inquiry
+"I'm new here and want to set up my profile, where do I start?",account_creation
+need refund for damged product,refund
+I need this handled by someone with access to my full account history,human_handoff
+I need to recover my account before a scheduled delivery today,account_recovery
+Is there a discount for bundling this with a related accessory,promotions
+What documents do I need to register as a seller instead of buyer?,account_creation
+"I want to register for wholesale purchasing, is that a separate process",account_creation
+Is it possible to update details for a shared family plan account,account_management
+"this bot is useless, get me a person",human_handoff
+Is it possible to lock certain account settings from being changed accidentally,account_management
+cancel my order right away please,cancel_order
+Is there an offer for customers who switch from monthly to annual billing,promotions
+Can you check if a partial refund was issued instead of the full amount I expected,refund
+Can I get a supervisor's name and direct contact?,human_handoff
+Why does my invoice show a charge under a category I don't recognize,billing_inquiry
+Can support verify if my refund request needs additional documentation,refund
+How do I revoke access for a device I no longer use?,account_management
+need real time status of my package please,order_tracking
+I need to understand the proration logic used when I upgraded mid-cycle,billing_inquiry
+Can you tell me if there's a price protection guarantee after sale ends,promotions
+Why does the tax breakdown differ between my invoice and the checkout summary,billing_inquiry
+Is there a way to verify this isn't a counterfeit before purchasing,product_inquiry
+how do i cancel an order placed as a guest,cancel_order
+Can you cancel this order if the promised bundle items aren't actually included,cancel_order
+The delivery partner's app shows nothing for my tracking ID,order_tracking
+I want a refund because the seller never shipped it in time,refund
+Can you confirm if there's a loyalty milestone reward I'm close to reaching,promotions
+tracking not updating since 2 days,order_tracking
+I need to update insurance details linked to my premium plan,account_management
+Is this compatible with universal remote control systems,product_inquiry
+How much is the Apple tablet?,product_inquiry
+I want to cancel before dispatch,cancel_order
+Can you confirm if replacement batteries are proprietary or standard size,product_inquiry
+"seller not responding, need refund",refund
+Can you deliver to a temporary address like a hotel,shipping_info
+Can cancellation still happen if I already contacted the seller about a swap,cancel_order
+"The security question I set up years ago, I don't remember the answer",account_recovery
+Can you tell me if this supports future software updates,product_inquiry
+"My package shows 'delivery exception', what does that actually mean",order_tracking
+Can you share the product details?,product_inquiry
+the currency shown on invoice is wrong for my region,billing_inquiry
+Can you connect me with someone from your escalations desk directly,human_handoff
+Can you tell me if this product requires special maintenance,product_inquiry
+Can a real agent confirm receipt of the documents I uploaded earlier,human_handoff
+Any discount for new users?,promotions
+Update my date of birth on file,account_management
+Can I request a specific department instead of general support,human_handoff
+What's the cutoff time for same-day dispatch?,shipping_info
+My neighbor said a package arrived for me but it's not showing on the app,order_tracking
+Register,account_creation
+"Hi, just checking if you're online",greeting
+Signup,account_creation
+is delivery available for orders placed late at night,shipping_info
+Can you check the last scanned location for my shipment,order_tracking
+My payment isn't going through,billing_inquiry
+Can you tell me if this product requires a subscription for full functionality,product_inquiry
+my saved card was charged without my confirmation click,billing_inquiry
+Is there any movement on ORD1024?,order_tracking
+Does this product have any known common issues customers report?,product_inquiry
+"Hey, are you there?",greeting
+"Hello, could you please help me with something?",greeting
+Can you get a manager to review the transcript of this entire conversation,human_handoff
+how does delivery differ for prepaid versus cod orders,shipping_info
+Can you confirm if unused loyalty points are restored after a refund,refund
+Can support check if the refund was accidentally processed to a cancelled card,refund
+"Hey, is this the support line?",greeting
+"Hi, sorry if I sound unsure, first time chatting here",greeting
+cashback kitna milega is order pe,promotions
+"i lost my phone and my account was linked to it, help",account_recovery
+Can you confirm if this comes with multilingual packaging instructions,product_inquiry
+my delivery slot passed and nothing came,order_tracking
+Is there a loyalty tier system with better perks over time?,promotions
+I need last month's billing history for my records,billing_inquiry
+Why did my refund take longer than the timeline stated in your policy,refund
+"Hi, I appreciate you responding on a weekend",greeting
+Good day,greeting
+does dis come with a printed manual or only digital,product_inquiry
+Can you connect me with someone available on call right now,human_handoff
+I no longer need this since I found an alternative in-store,cancel_order
+Why did I receive two separate invoices for what should be one order,billing_inquiry
+how heavy is dis product,product_inquiry
+"forgot pin for account, not password, is that different",account_recovery
+Why is there a service charge I wasn't informed about upfront,billing_inquiry
+"Evening, sorry to bother you but I need some info",greeting
+Is this item in stock?,product_inquiry
+i need an account to place my first order,account_creation
+Where is my order?,order_tracking
+Is there a way to request the next available human agent,human_handoff
+"Hello, wishing you a good day, I have a question",greeting
+Modify my account information,account_management
+"Hey, just wanted to say hi before diving in",greeting
+I was billed for something I didn't order,billing_inquiry
+Why does my invoice list a different seller name than what I purchased from,billing_inquiry
+What's the price of an HP printer?,product_inquiry
+"Hey there, quick one for you",greeting
+Why does my bill show a different total than what was shown at checkout,billing_inquiry
+Why does my statement show a charge from a subsidiary company name?,billing_inquiry
+Why was my refund issued as store credit when I expected a bank transfer,refund
+Can I change my subscription renewal date without cancelling first,account_management
+Can you help remove an outdated alternate email from my account,account_management
+Can support verify if a manual adjustment was made to my bill without notice,billing_inquiry
+Can support confirm if a refunded item can later be repurchased at the same discounted price,refund
+I changed devices and now I can't log in,account_recovery
+can support directly contact the delivery partner for me,order_tracking
+Is there an option to have delivery updates sent to a second phone number,shipping_info
+I keep getting a captcha error while trying to log in,account_recovery
+"my account seems compromised, need help asap",account_recovery
+"I accidentally placed an order, please cancel it",cancel_order
+Is it possible to sign up and skip email verification for now?,account_creation
+What's the delivery time estimate?,shipping_info
+is dis the newest model available,product_inquiry
+My card was charged but I never received a confirmation,billing_inquiry
+how does delivery work if im not home most days,shipping_info
+"Hey, first message of the day for me too",greeting
+I want to cancel because the seller isn't responding to my questions,cancel_order
+"I need to correct my postal code, it was entered wrong",account_management
+Can support confirm if refunds for cancelled subscriptions are prorated,refund
+I would like a human agent to confirm this resolution personally,human_handoff
+"I paid for express shipping but it's already 4 days, where is it?",order_tracking
+whats the biggest discount ive missed recently,promotions
+Is there a warranty extension option available at checkout,product_inquiry
+Can you update my preferred contact hours for support calls,account_management
+any offers today,promotions
+Order status please,order_tracking
+Smartphone price,product_inquiry
+Can I update my account to reflect a new legal guardian for a minor's account,account_management
+want to update profile pic,account_management
+Can you assist with updating tax exemption status on my account,account_management
+"getting 'too many attempts' error, how long is the lockout",account_recovery
+I need to update my professional title shown on the profile,account_management
+Give me the tracking details for ORD1058,order_tracking
+anyone know why my order is delayed so much,order_tracking
+"Hello, appreciate you being here to help",greeting
+"Hello, just testing if this chat is working",greeting
+I got married and want to update my last name,account_management
+"Hello, is someone there?",greeting
+Can you tell me more about this before I buy it?,product_inquiry
+When can I expect my order to arrive?,order_tracking
+i need to change my recovery email but cant even log in first,account_recovery
+my account merged with a duplicate one and now login is broken,account_recovery
+is there a way to recover account without the registered email,account_recovery
+"money debited, order not showing",billing_inquiry
+account keeps asking for verification code i never receive,account_recovery
+can i register through whatsapp instead of email,account_creation
+"Hey, thank you for the consistently quick replies",greeting
+why was a rush delivery fee added when i chose standard,billing_inquiry
+is this original or copy,product_inquiry
+Do you offer employee or corporate discount programs?,promotions
+I want to cancel my order,cancel_order
+Can support confirm the refund won't affect my ongoing subscription discount,refund
+I want to open a new account,account_creation
+"Hi, long time user here, quick thing to ask",greeting
+The tracking shows my package in a completely different state than expected,order_tracking
+"this issue needs a human decision, not automated logic",human_handoff
+I need this passed to a human since the chatbot flow has no relevant option,human_handoff
+Can support verify if my refund is affected by an ongoing dispute,refund
+Can you help unlink an old payment method tied to a closed bank account,account_management
+Is weekend delivery included in the estimated timeline shown?,order_tracking
+"Good morning, I have a small question if you have time",greeting
+Is there a professional-grade version of this consumer product,product_inquiry
+I need help understanding why two different tax rates appear on one invoice,billing_inquiry
+Is my package out for delivery today?,order_tracking
+I need someone empowered to make a final decision on this today,human_handoff
+What's the average delivery time to a neighboring country?,shipping_info
+Is there a difference between the international and domestic version of this,product_inquiry
+"i need this delivered today, can you check if thats possible",order_tracking
+update email pls,account_management
+My bank shows a pending charge that never converted to a completed transaction,billing_inquiry
+"My email provider is down, is there another way to verify my identity",account_recovery
+Is there a human available outside of standard business hours,human_handoff
+"Is there an option to request human support only, skipping bot suggestions entirely",human_handoff
+Show me Gaming laptops,product_inquiry
+my fingerprint login stopped recognizing me suddenly,account_recovery
+Any update on ORD1104?,order_tracking
+Can you check if a refund and original charge both appear correctly,billing_inquiry
+Is there a promo code I can use?,promotions
+Is there a discount for customers celebrating a specific milestone with your brand,promotions
+I reinstalled the app and now it won't recognize my login,account_recovery
+Is there a way to see the exact delivery route my package is on?,order_tracking
+I forgot my password,account_recovery
+Can you verify if a failed payment retry caused duplicate authorization holds,billing_inquiry
+whats the typical delay if the courier partner changes hubs,shipping_info
+Is delivery slower for cash-on-delivery compared to prepaid orders,shipping_info
+How do I verify my account after signing up?,account_creation
+can i get written confirmation that my order was cancelled,cancel_order
+Does this come pre-assembled or do I need to build it?,product_inquiry
+trying to add a new address but the form keeps resetting,account_management
+"Hey, is there a wait time to talk to someone?",greeting
+Can you tell me if there's a way to track how many loyalty points I've earned lifetime,promotions
+transfer to human,human_handoff
+I want to register but the OTP field isn't accepting numbers,account_creation
+Change my password,account_management
+shiping charges for heavy items,shipping_info
+Edit account,account_management
+Is there a way to recover an account tied to a deactivated email domain,account_recovery
+Do you deliver to remote villages?,shipping_info
+I was charged in a different currency than expected,billing_inquiry
+Can you confirm if there's a loyalty bonus for maintaining a wishlist actively,promotions
+Where's my package?,order_tracking
+account recovery keeps redirecting me in circles,account_recovery
+"tried the forgot password 5 times, still nothing",account_recovery
+I want to cancel since a newer version of this product was just announced,cancel_order
+want to register but confused about the form fields,account_creation
+What's the difference between standard and premium shipping?,shipping_info
+"Can you check if my IP got flagged, causing repeated recovery failures",account_recovery
+"Hey, hope your day's going well so far",greeting
+"payment split across two cards, only one shows in invoice",billing_inquiry
+chat wit real person pls,human_handoff
+pls process my refund fast,refund
+Is phone-based recovery faster than email-based recovery,account_recovery
+Can you pull up ORD1105?,order_tracking
+Can you verify if the seller has actually acknowledged my return,refund
+Can support verify if a manual override was applied to my last bill,billing_inquiry
+Is contactless delivery an option?,shipping_info
+What's the shipping policy for fragile items?,shipping_info
+payment stuck pending,billing_inquiry
+Is this item suitable for high-altitude or extreme climate use,product_inquiry
+Can I sign up using just my Apple ID?,account_creation
+Login not working plz help,account_recovery
+What's your return and refund policy?,refund
+locked out plzz,account_recovery
+can i redirect my package to a different address mid delivery,order_tracking
+Hii,greeting
+I want to link my account to a new bank account for refunds,account_management
+"Hi, I'm a new customer, nice to e-meet you",greeting
+connect me to person,human_handoff
+When will ORD1136 arrive?,order_tracking
+Can you help me reduce marketing communication frequency without opting out completely,account_management
+billing issue,billing_inquiry
+is there a wallet cashback scheme running currently,promotions
+any upcoming sale info pls,promotions
+I need to register but I don't have a smartphone for OTP,account_creation
+"Hi, hope you don't mind me starting with small talk first",greeting
+Is there an offer specifically for downloading and using the mobile app,promotions
+can partial refund be given if i keep a damaged accessory,refund
+want to cancel since the seller hasnt shipped in days,cancel_order
+Is there a way to get SMS alerts each time my order status changes,order_tracking
+I need to understand the exact exchange rate used for my international purchase,billing_inquiry
+I need to cancel because delivery to my new address isn't supported yet,cancel_order
+"Good morning, hoping for some quick help today",greeting
+coupon plz,promotions
+I want to create an account strictly for warranty registration purposes,account_creation
+whats the shipping process for international returns,shipping_info
+can you check if my order was accidentally sent to the wrong hub,order_tracking
+Can you check if my refund is being processed to an expired card,refund
+"the chatbot keeps repeating the same answer, i need a human",human_handoff
+I need an invoice reissued with corrected billing address,billing_inquiry
+Can you help me update my saved card details?,account_management
+Do you offer a joint account option for couples?,account_creation
+need to know exact refund amount before agreeing to return,refund
+Can you cancel the order even though payment is already processed,cancel_order
+Is this product available with a extended service contract,product_inquiry
+Can I cancel an order that's already out for delivery?,cancel_order
+I need to know if a refund can be issued before the returned item is received,refund
+"The registration page keeps freezing, any fix?",account_creation
+Is there a way to preview the terms of service before I sign up,account_creation
+How can I redeem my loyalty points?,promotions
+Is there an option for scheduled bulk delivery for offices,shipping_info
+Is there a way to request delivery specifically before a certain hour for office hours,shipping_info
+Can I get a consolidated invoice for multiple orders this month?,billing_inquiry
+is dis product refurbished or brand new,product_inquiry
+Is there an option for delivery confirmation via video call,shipping_info
+I need help changing my subscription plan tied to my account,account_management
+need to know if pkg left warehouse,order_tracking
+"Please cancel my order, the return policy shown was misleading",cancel_order
+I need to understand why a restocking fee was deducted from my refund,refund
+how does dis compare price wise to competitor brands,product_inquiry
+Show Samsung products,product_inquiry
+"None of these options solve my issue, connect me to support",human_handoff
+Can someone check if the delivery address on file is correct?,order_tracking
+already returned item but no refund yet,refund
+Please cancel since my landlord doesn't allow deliveries at my current address,cancel_order
+Can support verify if the refund includes taxes originally paid,refund
+refund kab tak aayega,refund
+Can you cancel my order if the seller hasn't confirmed it yet,cancel_order
+Can you tell me if this product has undergone any recent recalls,product_inquiry
+My order hasn't arrived yet,order_tracking
+Can I stack a first-time user discount with a seasonal sale?,promotions
+"The automated responses aren't solving my problem, can I speak to a person?",human_handoff
+Can you update my occupation field on the profile?,account_management
+Can support confirm if a promotional bundle price was honored correctly,billing_inquiry
+"trying to register but keep getting errors, pls assist",account_creation
+I need someone to verify my identity manually since automation keeps failing,account_recovery
+whats the max time delivery can take in worst case,shipping_info
+I want to change how my name appears on shipping labels,account_management
+want refund plus compensation for the inconvenience caused,refund
+I was charged twice for my order,billing_inquiry
+Locate ORD1092,order_tracking
+"I can log in on my phone but not on the website, why",account_recovery
+pls cancl before it ships,cancel_order
+Account locked out,account_recovery
+"Please cancel my order, I want to consult a specialist before this purchase",cancel_order
+The OTP for login isn't arriving on my phone,account_recovery
+There's a currency conversion charge I wasn't expecting,billing_inquiry
+How do I change the currency displayed on my account?,account_management
+Can a human help me with this?,human_handoff
+How much extra does overnight shipping cost?,shipping_info
+is there a manual recovery option if automated ones fail,account_recovery
+Order status?,order_tracking
+"wheres my item, ordered last week",order_tracking
+Can you confirm if loyalty discounts and coupon codes can combine on one invoice,billing_inquiry
+How long does delivery take?,shipping_info
+Track shipment ORD1150,order_tracking
+Can I get delivery confirmation with a photo of the doorstep drop-off,shipping_info
+Does creating an account cost anything at all?,account_creation
+Can you get someone from compliance to review this specific complaint,human_handoff
+"Hi, back again with another question",greeting
+Track my order,order_tracking
+is dis coupon still valid,promotions
+Can support confirm if cross-border transaction fees apply to my last purchase,billing_inquiry
